@@ -4,8 +4,8 @@ const produtosCabelos=[
   {
     id: 1,
     name: "Siáge",
-    image:"./public/img-liso-cauterização.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/img-liso-cauterização.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo SiàgeCondicionador  200ml + Shampoo 250ml",
     categoria: "cabelos",
