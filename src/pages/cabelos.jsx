@@ -13,8 +13,8 @@ const produtosCabelos=[
   {
     id: 2,
     name: "Siáge",
-    image:"./public/img-shampoo-e-condicionador.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/img-shampoo-e-condicionador.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo SiàgeCondicionador  200ml + Shampoo 250ml",
     categoria: "cabelos",
@@ -22,8 +22,8 @@ const produtosCabelos=[
   {
     id: 3,
     name: "Siáge",
-    image:"./public/img-combo_eudora_siage_cachos_shampoo_condicionador_mascara.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/img-combo_eudora_siage_cachos_shampoo_condicionador_mascara.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo SiàgeCondicionador  200ml + Shampoo 250ml",
     categoria: "cabelos",
@@ -31,8 +31,8 @@ const produtosCabelos=[
   {
     id: 4,
     name: "Siáge",
-    image:"./public/img-combo-siage-shampoo-condicionador-mascara.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/img-combo-siage-shampoo-condicionador-mascara.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo SiàgeCondicionador  200ml + Shampoo 250ml",
     categoria: "cabelos",
@@ -40,8 +40,8 @@ const produtosCabelos=[
   {
     id: 5,
     name: "Siáge",
-    image:"./public/img-combo-siage-shampoo-condicionador-mascara.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/img-combo-siage-shampoo-condicionador-mascara.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo SiàgeCondicionador  200ml + Shampoo 250ml",
     categoria: "cabelos",
@@ -49,8 +49,8 @@ const produtosCabelos=[
   {
     id: 6,
     name: "Siáge",
-    image:"./public/img-shampoo-e-condicionador.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/img-shampoo-e-condicionador.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo SiàgeCondicionador  200ml + Shampoo 250ml",
     categoria: "cabelos",
@@ -64,7 +64,7 @@ const Cabelos = () => {
         <>
 
         <div className="desainer-logo">
-         <img className="logo-cabelos" src="./public/logo-cabelos.webp" alt="imagem-logo"></img>
+         <img className="logo-cabelos" src="/logo-cabelos.webp" alt="imagem-logo"></img>
          </div>
          <h2> PRODUTOS EUDORA PARA CABELOS | SHAMPOO, CONDICIONADOR E KITS</h2>
           <p>
@@ -81,25 +81,25 @@ const Cabelos = () => {
          
           <div className="cards-container">
             <div className="card-content">
-              <img className="card" src="./public/card-siage-pro-cronology.webp" alt="imagem"></img>
+              <img className="card" src="/card-siage-pro-cronology.webp" alt="imagem"></img>
             </div>
             <div className="card-content">
-              <img className="card" src="./public/card-2-siage-pro-cronology.webp" alt="imagem"></img>
+              <img className="card" src="/card-2-siage-pro-cronology.webp" alt="imagem"></img>
             </div>
             <div className="card-content">
-              <img className="card" src="./public/card-3siage-pro-cronology.webp" alt="imagem"></img>
+              <img className="card" src="/card-3siage-pro-cronology.webp" alt="imagem"></img>
             </div>
             <div className="card-content">
-              <img className="card" src="./public/card-4-siage-pro-cronology.webp" alt="imagem"></img>
+              <img className="card" src="/card-4-siage-pro-cronology.webp" alt="imagem"></img>
             </div>
             <div className="card-content">
-              <img className="card" src="./public/card-5-siage-pro-cronology.webp" alt="imagem"></img>
+              <img className="card" src="/card-5-siage-pro-cronology.webp" alt="imagem"></img>
             </div>
             <div className="card-content">
-              <img className="card" src="./public/card-6-siage-pro-cronology.webp" alt="imagem"></img>
+              <img className="card" src="/card-6-siage-pro-cronology.webp" alt="imagem"></img>
             </div>
             <div className="card-content">
-              <img className="card" src="./public/card-7-siage-pro-cronology.webp" alt="imagem"></img>
+              <img className="card" src="/card-7-siage-pro-cronology.webp" alt="imagem"></img>
             </div>
           </div>
 
@@ -121,32 +121,32 @@ const Cabelos = () => {
           </div>
 
           <div className="img-logo-desainer">
-            <img className="logo" src="./public/header-guia-da-beleza-lp-siage-desk.webp" alt="imagem"></img>
+            <img className="logo" src="/header-guia-da-beleza-lp-siage-desk.webp" alt="imagem"></img>
           </div>
           <div className="cards-container">
             <div className="card-content">
               <img className="card-img"
-              src="./public/card-cabelos-eud-shampoo.webp"></img>
+              src="/card-cabelos-eud-shampoo.webp"></img>
             </div>
             <div className="card-content">
               <img className="card-img"
-              src="./public/card-cabelos-eud-coindicionador.webp"></img>
+              src="/card-cabelos-eud-coindicionador.webp"></img>
             </div>
             <div className="card-content">
               <img className="card-img"
-               src="./public/card-cabelos-eud-mascaradetratamento.webp"></img>
+               src="/card-cabelos-eud-mascaradetratamento.webp"></img>
             </div>
             <div className="card-content">
               <img className="card-img"
-              src="./public/card-cabelos-eud-leave-in.webp"></img>
+              src="/card-cabelos-eud-leave-in.webp"></img>
             </div>
             <div className="card-content">
               <img className="card-img"
-              src="./public/card-cabelos-eud-finalizador.webp"></img>
+              src="/card-cabelos-eud-finalizador.webp"></img>
             </div>
             <div className="card-content">
               <img className="card-img"
-              src="./public/card-cabelos-eud-modelador.webp"></img>
+              src="/card-cabelos-eud-modelador.webp"></img>
             </div>
           </div>
  
@@ -157,58 +157,58 @@ const Cabelos = () => {
           
           <div className="cards-container">
             <div className="content-card">
-              <img className="card-log" src="./public/card-cabelos-eud-siage.webp"></img>
+              <img className="card-log" src="/card-cabelos-eud-siage.webp"></img>
             </div>
             <div className="content-card">
-              <img className="card-log" src="./public/card-cabelos-eud-instance.webp"></img>
+              <img className="card-log" src="/card-cabelos-eud-instance.webp"></img>
             </div>
             <div className="content-card">
-              <img className="card-log" src="./public/card-cabelos-eud-siage-men.webp"></img>
+              <img className="card-log" src="/card-cabelos-eud-siage-men.webp"></img>
             </div>
             <div className="content-card">
-              <img className="card-log" src="./public/card-cabelos-eud-kids.webp"></img>
+              <img className="card-log" src="/card-cabelos-eud-kids.webp"></img>
             </div>
             <div className="content-card">
-              <img className="card-log" src="./public/cardcabelos-eud-baby.webp"></img>
+              <img className="card-log" src="/cardcabelos-eud-baby.webp"></img>
             </div>
           </div>
           <h2>Descubra o produto especializado para o seu tipo de cabelo!</h2>
            <div className="cards-destaque">
              <div className="card-content">
-             <img className="card-logo" src="./public/painel-cabelos-secos.webp"></img>
+             <img className="card-logo" src="/painel-cabelos-secos.webp"></img>
              </div>
              <div className="card-content">
-             <img className="card-logo" src="./public/painel-cabelos-secos.webp"></img>
+             <img className="card-logo" src="/painel-cabelos-secos.webp"></img>
              </div>
              <div className="card-content">
-             <img className="card-logo" src="./public/painel-cabelos-queda.webp"></img>
+             <img className="card-logo" src="/painel-cabelos-queda.webp"></img>
              </div>
              <div className="card-content">
-             <img className="card-logo" src="./public/painel-cabelos-danificados.webp"></img>
+             <img className="card-logo" src="/painel-cabelos-danificados.webp"></img>
              </div>
              <div className="card-content">
-             <img className="card-logo" src="./public/painel-cabelos-frizzados.webp"></img>
+             <img className="card-logo" src="/painel-cabelos-frizzados.webp"></img>
              </div>
              <div className="card-content">
-             <img className="card-logo" src="./public/painel-cabelos-cacheados.webp"></img>
+             <img className="card-logo" src="/painel-cabelos-cacheados.webp"></img>
              </div>
              <div className="card-content">
-             <img className="card-logo" src="./public/painel-cabelos-lisos.webp"></img>
+             <img className="card-logo" src="/painel-cabelos-lisos.webp"></img>
              </div>
              <div className="card-content">
-             <img className="card-logo" src="./public/painel-cabelos-loirosgrisalhos.webp"></img>
+             <img className="card-logo" src="/painel-cabelos-loirosgrisalhos.webp"></img>
              </div>
              <div className="card-content">
-             <img className="card-logo" src="./public/painel-cabelos-quimicamentetratados.webp"></img>
+             <img className="card-logo" src="/painel-cabelos-quimicamentetratados.webp"></img>
              </div>
              <div className="card-content">
-             <img className="card-logo" src="./public/painel-cabelos-equilibrados.webp"></img>
+             <img className="card-logo" src="/painel-cabelos-equilibrados.webp"></img>
              </div>
              <div className="card-content">
-             <img className="card-logo" src="./public/painel-cabelos-coloridos.webp"></img>
+             <img className="card-logo" src="/painel-cabelos-coloridos.webp"></img>
              </div>
              <div className="card-content">
-             <img className="card-logo" src="./public/painel-cabelos-caspas.webp"></img>
+             <img className="card-logo" src="/painel-cabelos-caspas.webp"></img>
              </div>
            </div>
 

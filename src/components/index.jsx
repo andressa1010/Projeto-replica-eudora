@@ -10,8 +10,8 @@ const produtosEudora=[
   {
     id: 1,
     name:"Siage",
-    image:"./public/img-combo_eudora_siage_cachos_shampoo_condicionador_mascara.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/img-combo_eudora_siage_cachos_shampoo_condicionador_mascara.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo SiágeCondicionador 200ml + Shampoo",
     category:"cosmeticos",
@@ -19,8 +19,8 @@ const produtosEudora=[
   {
     id: 2,
     name: "Siáge",
-    image:"./public/img-shampoo-e-condicionador.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/img-shampoo-e-condicionador.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo SiàgeCondicionador  200ml + Shampoo ",
     categoria: "cabelos",
@@ -28,8 +28,8 @@ const produtosEudora=[
   {
     id: 3,
     name: "Siáge",
-    image:"./public/img-combo_eudora_siage_cachos_shampoo_condicionador_mascara.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/img-combo_eudora_siage_cachos_shampoo_condicionador_mascara.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo SiàgeCondicionador  200ml + Shampoo",
     categoria: "cabelos",
@@ -37,8 +37,8 @@ const produtosEudora=[
   {
     id: 4,
     name: "Siáge",
-    image:"./public/img-combo-siage-shampoo-condicionador-mascara.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/img-combo-siage-shampoo-condicionador-mascara.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo SiàgeCondicionador  200ml + Shampoo ",
     categoria: "cabelos",
@@ -46,8 +46,8 @@ const produtosEudora=[
   {
     id: 5,
     name: "Siáge",
-    image:"./public/img-combo-siage-shampoo-condicionador-mascara.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/img-combo-siage-shampoo-condicionador-mascara.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo SiàgeCondicionador  200ml + Shampoo ",
     categoria: "cabelos",
@@ -55,8 +55,8 @@ const produtosEudora=[
   {
     id: 6,
     name: "Siáge",
-    image:"./public/img-liso-cauterização.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/img-liso-cauterização.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo SiàgeCondicionador  200ml + Shampoo ",
     categoria: "cabelos",
@@ -64,8 +64,8 @@ const produtosEudora=[
   {
     id: 7,
     name: "Siáge",
-    image:"./public/img-liso-cauterização.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/img-liso-cauterização.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo SiàgeCondicionador  200ml + Shampoo ",
     categoria: "cabelos",
@@ -73,8 +73,8 @@ const produtosEudora=[
   {
     id: 8,
     name: "Siáge",
-    image:"./public/siage-combo-mascaras.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/siage-combo-mascaras.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo Siàge Cronograma Capilar: Nutri Óleos Poderosos 250g + Cica-Therapy 250g + Hidratação Micelar 250g ",
     categoria: "cabelos",
@@ -82,8 +82,8 @@ const produtosEudora=[
   {
     id: 9,
     name: "Siáge",
-    image:"./public/combo-siage-pro-cronology.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/combo-siage-pro-cronology.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo Siàge Cronograma Capilar: Nutri Óleos Poderosos 250g + Cica-Therapy 250g + Hidratação Micelar 250g ",
     categoria: "cabelos",
@@ -91,8 +91,8 @@ const produtosEudora=[
   {
     id: 10,
     name: "Siáge",
-    image:"./public/siage-hair.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/siage-hair.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo Siàge Cronograma Capilar: Nutri Óleos Poderosos 250g + Cica-Therapy 250g + Hidratação Micelar 250g ",
     categoria: "cabelos",
@@ -100,8 +100,8 @@ const produtosEudora=[
   {
     id: 11,
     name: "Siáge",
-    image:"./public/siage-recupera.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/siage-recupera.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo Siàge Cronograma Capilar: Nutri Óleos Poderosos 250g + Cica-Therapy 250g + Hidratação Micelar 250g ",
     categoria: "cabelos",
@@ -109,8 +109,8 @@ const produtosEudora=[
   {
     id: 12,
     name: "Siáge",
-    image:"./public/img-combo-siage-shampoo-condicionador-mascara.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/img-combo-siage-shampoo-condicionador-mascara.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
     description:"Combo SiàgeCondicionador  200ml + Shampoo ",
     categoria: "cabelos",
@@ -126,8 +126,8 @@ const maquiagemEmDestaque=[
   {
     id:1,
     name:"Soul",
-    image:"./public/baseeudora.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/baseeudora.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Base liquida ultra matte",
     category:"Maquiagens",
@@ -135,8 +135,8 @@ const maquiagemEmDestaque=[
   {
     id:2,
     name:"Soul",
-    image:"./public/baseNiinaSecrests.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/baseNiinaSecrests.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Base liquida ultra matte",
     category:"Maquiagens",
@@ -144,7 +144,7 @@ const maquiagemEmDestaque=[
   {
     id:3,
     name:"Glam",
-    image:"./public/baseGlamSkin.png",
+    image:"/baseGlamSkin.png",
     avaliacao:"./public/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Base liquida ultra matte",
@@ -153,8 +153,8 @@ const maquiagemEmDestaque=[
   {
     id:4,
     name:"Soul",
-    image:"./public/baseeudora.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/baseeudora.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Base liquida ultra matte",
     category:"Maquiagens",
@@ -162,8 +162,8 @@ const maquiagemEmDestaque=[
   {
     id:5,
     name:"Soul",
-    image:"./public/MascaraDeCiliosEudora.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/MascaraDeCiliosEudora.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Base liquida ultra matte",
     category:"Maquiagens",
@@ -171,8 +171,8 @@ const maquiagemEmDestaque=[
   {
     id:6,
     name:"Soul",
-    image:"./public/baseNiinaCores.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/baseNiinaCores.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Base liquida ultra matte",
     category:"Maquiagens",
@@ -180,8 +180,8 @@ const maquiagemEmDestaque=[
   {
     id:7,
     name:"Soul",
-    image:"./public/batomVinho.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/batomVinho.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Batom Mate Vinho Cabernet SOUL Kiss Me 3,7g",
     category:"Maquiagens",
@@ -189,8 +189,8 @@ const maquiagemEmDestaque=[
   {
     id:8,
     name:"Soul",
-    image:"./public/batomVermelhoKiss.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/batomVermelhoKiss.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Batom Mate Vinho Cabernet SOUL Kiss Me 3,7g",
     category:"Maquiagens",
@@ -198,8 +198,8 @@ const maquiagemEmDestaque=[
   {
     id:9,
     name:"Soul",
-    image:"./public/batomLiquidoVinho.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/batomLiquidoVinho.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Batom Mate Vinho Cabernet SOUL Kiss Me 3,7g",
     category:"Maquiagens",
@@ -207,8 +207,8 @@ const maquiagemEmDestaque=[
   {
     id:10,
     name:"Soul",
-    image:"./public/batomVinho.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/batomVinho.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Batom Mate Vinho Cabernet SOUL Kiss Me 3,7g",
     category:"Maquiagens",
@@ -216,8 +216,8 @@ const maquiagemEmDestaque=[
   {
     id:11,
     name:"Soul",
-    image:"./public/batomEudoraMarron.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/batomEudoraMarron.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Batom Mate Vinho Cabernet SOUL Kiss Me 3,7g",
     category:"Maquiagens",
@@ -225,8 +225,8 @@ const maquiagemEmDestaque=[
   {
     id:12,
     name:"Soul",
-    image:"./public/kitBatomliquido.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/kitBatomliquido.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Batom Mate Vinho Cabernet SOUL Kiss Me 3,7g",
     category:"Maquiagens",
@@ -238,8 +238,8 @@ const batonsGlam=[
   {
     id: 1,
     name:"Glam",
-    image:"./public/glam-batom-vinho.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/glam-batom-vinho.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Combo Glamourosa e Incomparável: Batom Malva 3,4g + Case",
     category:"Maquiagens",
@@ -247,8 +247,8 @@ const batonsGlam=[
   {
     id: 2,
     name:"Glam",
-    image:"./public/glam-batom-malva-frontal.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/glam-batom-malva-frontal.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Combo Glamourosa e Incomparável: Batom Malva 3,4g + Case",
     category:"Maquiagens",
@@ -256,8 +256,8 @@ const batonsGlam=[
   {
     id: 3,
     name:"Glam",
-    image:"./public/glam-batom-vinho.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/glam-batom-vinho.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Combo Glamourosa e Incomparável: Batom Malva 3,4g + Case",
     category:"Maquiagens",
@@ -265,8 +265,8 @@ const batonsGlam=[
   {
     id: 4,
     name:"Glam",
-    image:"./public/glam-batom-vinho.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/glam-batom-vinho.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Combo Glamourosa e Incomparável: Batom Malva 3,4g + Case",
     category:"Maquiagens",
@@ -274,8 +274,8 @@ const batonsGlam=[
   {
     id: 5,
     name:"Glam",
-    image:"./public/glam-batom-vinho.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/glam-batom-vinho.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Combo Glamourosa e Incomparável: Batom Malva 3,4g + Case",
     category:"Maquiagens",
@@ -283,8 +283,8 @@ const batonsGlam=[
   {
     id: 6,
     name:"Glam",
-    image:"./public/glam-batom-vinho.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/glam-batom-vinho.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Combo Glamourosa e Incomparável: Batom Malva 3,4g + Case",
     category:"Maquiagens",
@@ -296,8 +296,8 @@ const produtosMaisVendidos=[
   {
     id: 1, 
     name:"GLAM",
-    image:"./public/kitsBatomRosaVermelho.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/kitsBatomRosaVermelho.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:109.99,
     description:"Combo Batom Eudora Microplastia: Rose Delicado 3,3g + Nude Rosado 3,3g",
     category:"Maquiagens"
@@ -305,8 +305,8 @@ const produtosMaisVendidos=[
   {
     id: 2, 
     name:"GLAM",
-    image:"./public/MASC-CIL-SOUL-VOLUMACO.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/MASC-CIL-SOUL-VOLUMACO.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:109.99,
     description:"Máscara Para Cílios Eudora Volume 8,5g, A máscara de cílios ideal é aquela que realça a beleza do seu olhar",
     category:"Maquiagens"
@@ -314,8 +314,8 @@ const produtosMaisVendidos=[
   {
     id:3,
     name:"Glam",
-    image:"./public/baseGlamSkin.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/baseGlamSkin.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Base liquida ultra matte , A Base Líquida Soul Ultra Matte proporciona uma make à prova de fotos e uma pele sequinha o dia todo!",
     category:"Maquiagens",
@@ -323,8 +323,8 @@ const produtosMaisVendidos=[
   {
     id:4,
     name:"Soul",
-    image:"./public/baseeudora.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/baseeudora.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Base liquida ultra matte , A Base Líquida Soul Ultra Matte proporciona uma make à prova de fotos e uma pele sequinha o dia todo!",
     category:"Maquiagens",
@@ -332,8 +332,8 @@ const produtosMaisVendidos=[
   {
     id:5,
     name:"Niina Secrets",
-    image:"./public/baseNiinaSecrests.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/baseNiinaSecrests.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Base Líquida Daily , a Base Líquida Daily Tint Cream Niina Secrets é o tratamento diário 24h na primeira etapa da make que vai deixar a sua pele radiante! ",
     category:"Maquiagens",
@@ -350,10 +350,10 @@ const Header = () => {
   };
 
   const cupomImages = [
-    '/public/semana-do-batom-desk.webp',
-    '/public/escolha-seu-cupom-2.webp',
-    '/public/cupomEudora.webp',
-    '/public/siage-logo.webp'
+    '/semana-do-batom-desk.webp',
+    '/escolha-seu-cupom-2.webp',
+    '/cupomEudora.webp',
+    '/siage-logo.webp'
   ];
 
     return ( 
@@ -399,44 +399,44 @@ const Header = () => {
          <div className="desainer-rotas">
             <div className="container-rotas">
                 <Link to="/cabelos"> 
-                  <img className="img-rotas"   src="/public/cabelos.webp" alt="imagem"></img>
+                  <img className="img-rotas"   src="/cabelos.webp" alt="imagem"></img>
                 </Link>
             </div>
             <div className="container-rotas">
                 <Link to="/produtos-masculino"> 
                   <img className="img-rotas"
-                  src="/public/produtos-masculino.webp" alt="imagem"></img>
+                  src="/produtos-masculino.webp" alt="imagem"></img>
                 </Link>
             </div>
             <div className="container-rotas">
                 <Link to="/maquiagem"> 
                   <img className="img-rotas"
-                  src="/public/maquiagem.webp" alt="imagem"></img>
+                  src="/maquiagem.webp" alt="imagem"></img>
                 </Link>
             </div>
             <div className="container-rotas">
                 <Link to="/perfumaria"> 
                   <img 
                     className="img-rotas"
-                   src="/public/perfumaria.webp" alt="imagem"></img>
+                   src="/perfumaria.webp" alt="imagem"></img>
                 </Link>
             </div>
             <div className="container-rotas">
                 <Link to="/presentes"> 
                   <img className="img-rotas"
-                  src="/public/presentes.webp" alt="imagem"></img>
+                  src="/presentes.webp" alt="imagem"></img>
                 </Link>
             </div>
             <div className="container-rotas">
                 <Link to="/corpoebanho"> 
                   <img  className="img-rotas"
-                   src="/public/corpo-e-banho.webp" alt="imagem"></img>
+                   src="/corpo-e-banho.webp" alt="imagem"></img>
                 </Link>
             </div>
             <div className="container-rotas">
                 <Link to="/skincare"> 
                   <img  className="img-rotas"
-                  src="/public/skincare.webp" alt="imagem"></img>
+                  src="/skincare.webp" alt="imagem"></img>
                 </Link>
             </div>
          </div>
@@ -444,19 +444,19 @@ const Header = () => {
          <div className="container-imgs">
           <div className="content-imgs">
             <img className="logo-destaque" 
-            src="./public/logo-cupons.webp" alt="imagem"></img>
+            src="/logo-cupons.webp" alt="imagem"></img>
           </div>
           <div className="content-imgs">
             <img className="logo-destaque"
-             src="./public/1-compra.webp" alt="imagem"></img>
+             src="/1-compra.webp" alt="imagem"></img>
           </div>
           <div className="content-imgs">
             <img className="logo-destaque"
-            src="./public/promocoes.webp" alt="imagem"></img>
+            src="/promocoes.webp" alt="imagem"></img>
           </div>
           <div className="content-imgs">
             <img className="logo-destaque" 
-            src="./public/lancamentos.webp" alt="imagem"></img>
+            src="/lancamentos.webp" alt="imagem"></img>
           </div>
          </div>
 
@@ -478,7 +478,7 @@ const Header = () => {
 
 
        <div className="logo-makups">
-       <img className="logo-makup" src="./public/maquiagem-em-destaque.webp" alt="logo"></img>
+       <img className="logo-makup" src="/maquiagem-em-destaque.webp" alt="logo"></img>
        </div>
 
        <div id="produtos-container">
@@ -552,31 +552,31 @@ const Header = () => {
           <div className="content-rotas">
             <Link to="/boca">
              <img className="destaque-make"
-              src="./public/card-categ-boca.webp" alt="imagem"></img>
+              src="/card-categ-boca.webp" alt="imagem"></img>
             </Link>
           </div>
           <div className="content-rotas">
             <Link to="/rosto">
              <img className="destaque-make"
-             src="./public/card-categ-rosto.webp" alt="imagem"></img>
+             src="/card-categ-rosto.webp" alt="imagem"></img>
             </Link>
           </div>
           <div className="content-rotas">
             <Link to="/olhos">
              <img className="destaque-make"
-             src="./public/card-categ-olhos.webp" alt="imagem"></img>
+             src="/card-categ-olhos.webp" alt="imagem"></img>
             </Link>
           </div>
           <div className="content-rotas">
             <Link to="/paletas">
              <img className="destaque-make"
-             src="./public/card-categ-paletas.webp" alt="imagem"></img>
+             src="/card-categ-paletas.webp" alt="imagem"></img>
             </Link>
           </div>
           <div className="content-rotas">
             <Link to="/unhas">
              <img className="destaque-make"
-             src="./public/card-categ-unhas.webp" alt="imagem"></img>
+             src="/card-categ-unhas.webp" alt="imagem"></img>
             </Link>
           </div>
         </div>

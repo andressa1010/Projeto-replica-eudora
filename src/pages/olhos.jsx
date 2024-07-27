@@ -4,8 +4,8 @@ const produtosCuidados=[
     {
         id: 1,
         name:"Niina Skin",
-        image:"./public/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
         description:"Hidratante Redutor de Olheiras Niina Skin 15g",
         category:"cosmeticos",
@@ -13,8 +13,8 @@ const produtosCuidados=[
       {
         id: 2,
         name:"Neo Dermo",
-        image:"./public/contorno-dermo-total-regenerate.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/contorno-dermo-total-regenerate.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
         description:"Contorno dos Olhos Neo Dermo Etage Total Regenerate 15g",
         category:"cosmeticos",
@@ -22,8 +22,8 @@ const produtosCuidados=[
       {
         id: 3,
         name:"Niina Skin",
-        image:"./public/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
         description:"Hidratante Redutor de Olheiras Niina Skin 15g",
         category:"cosmeticos",
@@ -31,8 +31,8 @@ const produtosCuidados=[
       {
         id: 4,
         name:"Neo Dermo",
-        image:"./public/contorno-dermo-total-regenerate.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/contorno-dermo-total-regenerate.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
         description:"Contorno dos Olhos Neo Dermo Etage Total Regenerate 15g",
         category:"cosmeticos",
@@ -40,8 +40,8 @@ const produtosCuidados=[
       {
         id: 5,
         name:"Niina Skin",
-        image:"./public/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
         description:"Hidratante Redutor de Olheiras Niina Skin 15g",
         category:"cosmeticos",
@@ -49,8 +49,8 @@ const produtosCuidados=[
       {
         id: 6,
         name:"Neo Dermo",
-        image:"./public/contorno-dermo-total-regenerate.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/contorno-dermo-total-regenerate.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
         description:"Contorno dos Olhos Neo Dermo Etage Total Regenerate 15g",
         category:"cosmeticos",
@@ -58,8 +58,8 @@ const produtosCuidados=[
       {
         id: 7,
         name:"Niina Skin",
-        image:"./public/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
         description:"Hidratante Redutor de Olheiras Niina Skin 15g",
         category:"cosmeticos",
@@ -67,8 +67,8 @@ const produtosCuidados=[
       {
         id: 8,
         name:"Neo Dermo",
-        image:"./public/contorno-dermo-total-regenerate.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/contorno-dermo-total-regenerate.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
         description:"Contorno dos Olhos Neo Dermo Etage Total Regenerate 15g",
         category:"cosmeticos",
@@ -76,8 +76,8 @@ const produtosCuidados=[
       {
         id: 9,
         name:"Niina Skin",
-        image:"./public/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
         description:"Hidratante Redutor de Olheiras Niina Skin 15g",
         category:"cosmeticos",
@@ -85,8 +85,8 @@ const produtosCuidados=[
       {
         id: 10,
         name:"Neo Dermo",
-        image:"./public/contorno-dermo-total-regenerate.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/contorno-dermo-total-regenerate.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
         description:"Contorno dos Olhos Neo Dermo Etage Total Regenerate 15g",
         category:"cosmeticos",
@@ -94,8 +94,8 @@ const produtosCuidados=[
       {
         id: 10,
         name:"Niina Skin",
-        image:"./public/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
         description:"Hidratante Redutor de Olheiras Niina Skin 15g",
         category:"cosmeticos",
@@ -103,8 +103,8 @@ const produtosCuidados=[
       {
         id: 11,
         name:"Neo Dermo",
-        image:"./public/contorno-dermo-total-regenerate.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/contorno-dermo-total-regenerate.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
         description:"Contorno dos Olhos Neo Dermo Etage Total Regenerate 15g",
         category:"cosmeticos",
@@ -116,8 +116,8 @@ const maquiagemParaOsOlhos=[
   {
     id:1,
     name:"Eudora",
-    image:"./public/paleta01.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/paleta01.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Palette de Sombras",
     category:"Perfumaria"
@@ -125,8 +125,8 @@ const maquiagemParaOsOlhos=[
   {
     id:2,
     name:"Eudora",
-    image:"./public/paleta02.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/paleta02.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Palette de Sombras",
     category:"Perfumaria"
@@ -134,8 +134,8 @@ const maquiagemParaOsOlhos=[
   {
     id:3,
     name:"Eudora",
-    image:"./public/paleta03.jpg",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/paleta03.jpg",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Palette de Sombras",
     category:"Perfumaria"
@@ -143,8 +143,8 @@ const maquiagemParaOsOlhos=[
   {
     id:4,
     name:"Eudora",
-    image:"./public/paleta04.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/paleta04.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Palette de Sombras",
     category:"Perfumaria"
@@ -152,8 +152,8 @@ const maquiagemParaOsOlhos=[
   {
     id:5,
     name:"Eudora",
-    image:"./public/paleta05.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/paleta05.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Palette de Sombras",
     category:"Perfumaria"
@@ -161,8 +161,8 @@ const maquiagemParaOsOlhos=[
   {
     id:6,
     name:"Eudora",
-    image:"./public/paleta06.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/paleta06.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Palette de Sombras",
     category:"Perfumaria"
@@ -170,8 +170,8 @@ const maquiagemParaOsOlhos=[
   {
     id:7,
     name:"Glam",
-    image:"./public/delineador-caneta.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/delineador-caneta.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Caneta Delineadora Preta 1,6g",
     category:"Perfumaria"
@@ -179,8 +179,8 @@ const maquiagemParaOsOlhos=[
   {
     id:8,
     name:"Glam",
-    image:"./public/delineador-liquido-preto-.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/delineador-liquido-preto-.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Delineador Líquido Para Olhos Preto Eudora 3ml",
     category:"Perfumaria"
@@ -188,8 +188,8 @@ const maquiagemParaOsOlhos=[
   {
     id:9,
     name:"Glam",
-    image:"./public/delineador-liquido-preto-.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/delineador-liquido-preto-.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Delineador Líquido Para Olhos Preto Eudora 3ml",
     category:"Perfumaria"
@@ -197,8 +197,8 @@ const maquiagemParaOsOlhos=[
   {
     id:10,
     name:"Glam",
-    image:"./public/delineador-liquido-preto-.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/delineador-liquido-preto-.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Delineador Líquido Para Olhos Preto Eudora 3ml",
     category:"Perfumaria"
@@ -206,8 +206,8 @@ const maquiagemParaOsOlhos=[
   {
     id:11,
     name:"Eudora",
-    image:"./public/paleta05.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/paleta05.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Palette de Sombras",
     category:"Perfumaria"
@@ -215,8 +215,8 @@ const maquiagemParaOsOlhos=[
   {
     id:12,
     name:"Eudora",
-    image:"./public/paleta06.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/paleta06.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Palette de Sombras",
     category:"Perfumaria"
@@ -227,7 +227,7 @@ const maquiagemParaOsOlhos=[
 const Olhos = () => {
     return ( 
         <>
-         <img className="logo-olhos" src="./public/header-logo-olhos.webp" alt="logo"></img>
+         <img className="logo-olhos" src="/header-logo-olhos.webp" alt="logo"></img>
 
           <div className="text-glam">
             <h2>

@@ -4,8 +4,8 @@ const linhaMasculino=[
     {
         id: 1,
         name:"Perfume",
-        image:"./public/perfume01.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/perfume01.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:199.99,
         description:"Eudora Bad Intention Desodorante Colônia",
         categoria:"masculino"
@@ -13,8 +13,8 @@ const linhaMasculino=[
     {
         id: 2,
         name:"Perfume",
-        image:"./public/perfume02.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/perfume02.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:199.99,
         description:"Eudora Bad Intention Desodorante Colônia",
         categoria:"masculino"
@@ -22,8 +22,8 @@ const linhaMasculino=[
     {
         id: 3,
         name:"Perfume",
-        image:"./public/perfume03.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/perfume03.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:199.99,
         description:"Eudora Bad Intention Desodorante Colônia",
         categoria:"masculino"
@@ -31,8 +31,8 @@ const linhaMasculino=[
     {
         id: 4,
         name:"Perfume",
-        image:"./public/perfume04.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/perfume04.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:199.99,
         description:"Eudora Bad Intention Desodorante Colônia",
         categoria:"masculino"
@@ -40,8 +40,8 @@ const linhaMasculino=[
     {
         id: 5,
         name:"Perfume",
-        image:"./public/perfume05.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/perfume05.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:199.99,
         description:"Eudora Bad Intention Desodorante Colônia",
         categoria:"masculino"
@@ -49,8 +49,8 @@ const linhaMasculino=[
     {
         id: 5,
         name:"Perfume",
-        image:"./public/perfume06.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/perfume06.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:199.99,
         description:"Eudora Bad Intention Desodorante Colônia",
         categoria:"masculino"
@@ -68,7 +68,7 @@ const ProdutosMasculino = () => {
     return ( 
         <>
         <img className="logo-masculino"
-         src="./public/banner-produtosmasculinos-eud.webp" 
+         src="/banner-produtosmasculinos-eud.webp" 
          alt="imagem"></img>
         <h2>
         PRODUTOS MASCULINOS EUDORA
@@ -85,34 +85,34 @@ const ProdutosMasculino = () => {
 
          <div className="container-cards-masculino">
             <div className="produtos-cards">
-                <img className="img-card" src="./public/perfum-masc-impression.webp" alt="imagem"></img>
+                <img className="img-card" src="/perfum-masc-impression.webp" alt="imagem"></img>
             </div>
             <div className="produtos-cards">
-                <img className="img-card" src="./public/perfum-masc-carbon.webp" alt="imagem"></img>
+                <img className="img-card" src="/perfum-masc-carbon.webp" alt="imagem"></img>
             </div>
             <div className="produtos-cards">
-                <img className="img-card" src="./public/perfum-masc-club6.webp" alt="imagem"></img>
+                <img className="img-card" src="/perfum-masc-club6.webp" alt="imagem"></img>
             </div>
             <div className="produtos-cards">
-                <img className="img-card" src="./public/perfum-masc-eudorah.webp" alt="imagem"></img>
+                <img className="img-card" src="/perfum-masc-eudorah.webp" alt="imagem"></img>
             </div>
             <div className="produtos-cards">
-                <img className="img-card" src="./public/perfum-masc-pulse.webp" alt="imagem"></img>
+                <img className="img-card" src="/perfum-masc-pulse.webp" alt="imagem"></img>
             </div>
             <div className="produtos-cards">
-                <img className="img-card" src="./public/perfum-masc-forlife.webp" alt="imagem"></img>
+                <img className="img-card" src="/perfum-masc-forlife.webp" alt="imagem"></img>
             </div>
             <div className="produtos-cards">
-                <img className="img-card" src="./public/perfum-masc-rummo.webp" alt="imagem"></img>
+                <img className="img-card" src="/perfum-masc-rummo.webp" alt="imagem"></img>
             </div>
             <div className="produtos-cards">
-                <img className="img-card" src="./public/perfum-masc-volpe.webp" alt="imagem"></img>
+                <img className="img-card" src="/perfum-masc-volpe.webp" alt="imagem"></img>
             </div>
             <div className="produtos-cards">
-                <img className="img-card" src="./public/perfum-masc-intention.webp" alt="imagem"></img>
+                <img className="img-card" src="/perfum-masc-intention.webp" alt="imagem"></img>
             </div>
             <div className="produtos-cards">
-                <img className="img-card" src="./public/perfum-masc-club6.webp" alt="imagem"></img>
+                <img className="img-card" src="/perfum-masc-club6.webp" alt="imagem"></img>
             </div>
 
          </div>

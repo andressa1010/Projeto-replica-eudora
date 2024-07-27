@@ -4,8 +4,8 @@ const produtosMaquiagem=[
   {
     id: 1,
     name:"Glam",
-    image:"./public/glam-batom-vinho.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/glam-batom-vinho.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Combo Glamourosa e Incomparável: Batom Malva 3,4g + Case",
     category:"Maquiagens",
@@ -13,8 +13,8 @@ const produtosMaquiagem=[
   {
     id: 2,
     name:"Glam",
-    image:"./public/glam-batom-vinho.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/glam-batom-vinho.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Combo Glamourosa e Incomparável: Batom Malva 3,4g + Case",
     category:"Maquiagens",
@@ -22,8 +22,8 @@ const produtosMaquiagem=[
   {
     id: 3,
     name:"Glam",
-    image:"./public/glam-batom-vinho.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/glam-batom-vinho.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Combo Glamourosa e Incomparável: Batom Malva 3,4g + Case",
     category:"Maquiagens",
@@ -31,8 +31,8 @@ const produtosMaquiagem=[
   {
     id: 4,
     name:"Glam",
-    image:"./public/glam-batom-vinho.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/glam-batom-vinho.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Combo Glamourosa e Incomparável: Batom Malva 3,4g + Case",
     category:"Maquiagens",
@@ -40,8 +40,8 @@ const produtosMaquiagem=[
   {
     id: 5,
     name:"Glam",
-    image:"./public/glam-batom-vinho.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/glam-batom-vinho.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Combo Glamourosa e Incomparável: Batom Malva 3,4g + Case",
     category:"Maquiagens",
@@ -54,8 +54,8 @@ const produtosbaseebatom=[
   {
     id:1,
     name:"Soul",
-    image:"./public/baseeudora.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/baseeudora.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Base liquida ultra matte",
     category:"Maquiagens",
@@ -63,8 +63,8 @@ const produtosbaseebatom=[
   {
     id:2,
     name:"Soul",
-    image:"./public/baseNiinaSecrests.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/baseNiinaSecrests.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Base liquida ultra matte",
     category:"Maquiagens",
@@ -72,8 +72,8 @@ const produtosbaseebatom=[
   {
     id:3,
     name:"Soul",
-    image:"./public/baseGlamSkin.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/baseGlamSkin.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Base liquida ultra matte",
     category:"Maquiagens",
@@ -81,8 +81,8 @@ const produtosbaseebatom=[
   {
     id:4,
     name:"Soul",
-    image:"./public/baseeudora.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/baseeudora.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Base liquida ultra matte",
     category:"Maquiagens",
@@ -90,8 +90,8 @@ const produtosbaseebatom=[
   {
     id:5,
     name:"Soul",
-    image:"./public/MascaraDeCiliosEudora.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/MascaraDeCiliosEudora.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Base liquida ultra matte",
     category:"Maquiagens",
@@ -105,7 +105,7 @@ const Maquiagem = () => {
         <>
         <div className="logo-container-make">
         <img className="logo-maquiagem" 
-        src="public\bannercategoria-linha-maquiagem (1).webp"
+        src="/bannercategoria-linha-maquiagem (1).webp"
          alt="logo"></img>
         </div> 
         <h2>PRODUTOS DE MAQUIAGEM EUDORA</h2>
@@ -138,17 +138,17 @@ const Maquiagem = () => {
           }
         </div>
 
-        <img className="logo-make" src="./public/eud-lp-maquiagem-branding-desk.webp" alt="logo"></img>
+        <img className="logo-make" src="/eud-lp-maquiagem-branding-desk.webp" alt="logo"></img>
 
         <div className="container-makeup">
           <div className="container-make">
-            <img className="makeup-log" src="./public/card-eud-lp-maquiagem-01.webp" alt="logo"></img>
+            <img className="makeup-log" src="/card-eud-lp-maquiagem-01.webp" alt="logo"></img>
           </div>
           <div className="container-make">
-            <img className="makeup-log" src="./public/card-eud-lp-maquiagem-03.webp" alt="logo"></img>
+            <img className="makeup-log" src="/card-eud-lp-maquiagem-03.webp" alt="logo"></img>
           </div>
           <div className="container-make">
-            <img className="makeup-log" src="./public/card-eud-lp-maquiagem-02.webp" alt="logo"></img>
+            <img className="makeup-log" src="/card-eud-lp-maquiagem-02.webp" alt="logo"></img>
           </div>
         </div>
 
@@ -159,37 +159,37 @@ const Maquiagem = () => {
 
         <div className="container-cads">
           <div className="content-cads">
-            <img className="img-logo-cards" src="./public/card-lp-maquiagem-eud-rosto.webp" alt="imagem"></img>
+            <img className="img-logo-cards" src="/card-lp-maquiagem-eud-rosto.webp" alt="imagem"></img>
           </div>
           <div className="content-cads">
-            <img className="img-logo-cards" src="./public/card-lp-maquiagem-eud-boca.webp" alt="imagem"></img>
+            <img className="img-logo-cards" src="/card-lp-maquiagem-eud-boca.webp" alt="imagem"></img>
           </div>
           <div className="content-cads">
-            <img className="img-logo-cards" src="./public/card-lp-maquiagem-eud-olhos.webp" alt="imagem"></img>
+            <img className="img-logo-cards" src="/card-lp-maquiagem-eud-olhos.webp" alt="imagem"></img>
           </div>
           <div className="content-cads">
-            <img className="img-logo-cards" src="./public/card-maquiagem-eud-paletas.webp" alt="imagem"></img>
+            <img className="img-logo-cards" src="/card-maquiagem-eud-paletas.webp" alt="imagem"></img>
           </div>
           <div className="content-cads">
-            <img className="img-logo-cards" src="./public/card-lp-maquiagem-eud-pinceis.webp" alt="imagem"></img>
+            <img className="img-logo-cards" src="/card-lp-maquiagem-eud-pinceis.webp" alt="imagem"></img>
           </div>
           <div className="content-cads">
-            <img className="img-logo-cards" src="./public/card-lp-maquiagem-eud-acessarios.webp" alt="imagem"></img>
+            <img className="img-logo-cards" src="/card-lp-maquiagem-eud-acessarios.webp" alt="imagem"></img>
           </div>
           <div className="content-cads">
-            <img className="img-logo-cards" src="./public/card-lp-maquiagem-eud-unha.webp" alt="imagem"></img>
+            <img className="img-logo-cards" src="/card-lp-maquiagem-eud-unha.webp" alt="imagem"></img>
           </div>
         </div>
 
         <div className="container-avaliacao">
           <div className="content-avaliacao">
-            <img className="avaliacao-cliente" src="./public/card-lp-maquiagem-review-01.webp" alt="imagem"></img>
+            <img className="avaliacao-cliente" src="/card-lp-maquiagem-review-01.webp" alt="imagem"></img>
           </div>
           <div className="content-avaliacao">
-            <img className="avaliacao-cliente" src="./public/card-lp-maquiagem-review-02.webp" alt="imagem"></img>
+            <img className="avaliacao-cliente" src="/card-lp-maquiagem-review-02.webp" alt="imagem"></img>
           </div>
           <div className="content-avaliacao">
-            <img className="avaliacao-cliente" src="./public/card-lp-maquiagem-review-03.webp" alt="imagem"></img>
+            <img className="avaliacao-cliente" src="/card-lp-maquiagem-review-03.webp" alt="imagem"></img>
           </div>
         </div>
 

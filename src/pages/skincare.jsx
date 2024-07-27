@@ -5,8 +5,8 @@ const produtosSkinCare=[
   {
     id:1, 
     name:"Niina Skin",
-    image:"./public/skin01.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/skin01.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:52.99,
     description:"Gel de Limpeza Eudora Skin,Chegou Niina Skin, a linha perfeita para todos os tipos de pele",
     category:"batom"
@@ -14,8 +14,8 @@ const produtosSkinCare=[
 {
   id:2, 
   name:"Niina Skin",
-  image:"./public/Combo-Niina-Skin-Rotina-de-Cuidados-Completa_6-itens_.webp",
-  avaliacao:"./public/estrelinhas-avaliacao.png",
+  image:"/Combo-Niina-Skin-Rotina-de-Cuidados-Completa_6-itens_.webp",
+  avaliacao:"/estrelinhas-avaliacao.png",
   price:52.99,
   description:"Gel de Limpeza Eudora Skin,Chegou Niina Skin, a linha perfeita para todos os tipos de pele",
   category:"batom"
@@ -23,8 +23,8 @@ const produtosSkinCare=[
 {
   id:3, 
   name:"Niina Skin",
-  image:"./public/Combo-Niina-Skin-Rotina-de-Cuidados-Completa_6-itens_conceito.webp",
-  avaliacao:"./public/estrelinhas-avaliacao.png",
+  image:"/Combo-Niina-Skin-Rotina-de-Cuidados-Completa_6-itens_conceito.webp",
+  avaliacao:"/estrelinhas-avaliacao.png",
   price:52.99,
   description:"Gel de Limpeza Eudora Skin,Chegou Niina Skin, a linha perfeita para todos os tipos de pele",
   category:"batom"
@@ -32,8 +32,8 @@ const produtosSkinCare=[
 {
   id:4, 
   name:"Niina Skin",
-  image:"./public/skin04.webp",
-  avaliacao:"./public/estrelinhas-avaliacao.png",
+  image:"/skin04.webp",
+  avaliacao:"/estrelinhas-avaliacao.png",
   price:52.99,
   description:"Gel de Limpeza Eudora Skin,Chegou Niina Skin, a linha perfeita para todos os tipos de pele",
   category:"batom"
@@ -41,8 +41,8 @@ const produtosSkinCare=[
 {
   id:5, 
   name:"Niina Skin",
-  image:"./public/Combo-Niina-Skin_Serum_Creme-Overnight_.webp",
-  avaliacao:"./public/estrelinhas-avaliacao.png",
+  image:"/Combo-Niina-Skin_Serum_Creme-Overnight_.webp",
+  avaliacao:"/estrelinhas-avaliacao.png",
   price:52.99,
   description:"Gel de Limpeza Eudora Skin,Chegou Niina Skin, a linha perfeita para todos os tipos de pele",
   category:"batom"
@@ -56,7 +56,7 @@ const Skincare = () => {
     return (
         <>
           <div className="container-skin">
-          <img className="logo-skincare" src="./public/banner-skincare-desk.webp" alt="logo"></img>
+          <img className="logo-skincare" src="/banner-skincare-desk.webp" alt="logo"></img>
           </div>
 
          <div className="text-glam">
@@ -78,27 +78,27 @@ const Skincare = () => {
         <div className="container-cuidados">
           <div className="content-cuidados">
             <img className="cuidados"
-             src="./public/card-rugas.webp" alt="imagem"></img>
+             src="/card-rugas.webp" alt="imagem"></img>
           </div>
           <div className="content-cuidados">
             <img className="cuidados"
-             src="./public/card-pele-hidratacao.webp" alt="imagem"></img>
+             src="/card-pele-hidratacao.webp" alt="imagem"></img>
           </div>
           <div className="content-cuidados">
             <img className="cuidados"
-             src="./public/card-pele-limpeza.webp" alt="imagem"></img>
+             src="/card-pele-limpeza.webp" alt="imagem"></img>
           </div>
           <div className="content-cuidados">
             <img className="cuidados"
-             src="./public/card-pele-oleosidade.webp" alt="imagem"></img>
+             src="/card-pele-oleosidade.webp" alt="imagem"></img>
           </div>
           <div className="content-cuidados">
             <img className="cuidados"
-             src="./public/card-pele-olheiras.webp" alt="imagem"></img>
+             src="/card-pele-olheiras.webp" alt="imagem"></img>
           </div>
           <div className="content-cuidados">
             <img className="cuidados"
-             src="./public/card-pele-protecao-solar.webp" alt="imagem"></img>
+             src="/card-pele-protecao-solar.webp" alt="imagem"></img>
           </div>
         </div>
 

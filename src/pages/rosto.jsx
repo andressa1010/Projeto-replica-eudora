@@ -4,8 +4,8 @@ const maquiagemRosto=[
     {
         id:1,
         name:"Soul",
-        image:"./public/baseeudora.png",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/baseeudora.png",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:59.99,
         description:"Base liquida ultra matte",
         category:"Maquiagens",
@@ -13,8 +13,8 @@ const maquiagemRosto=[
       {
         id:2,
         name:"Niina Secrets",
-        image:"./public/baseNiinaSecrests.png",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/baseNiinaSecrests.png",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:59.99,
         description:"Base liquida ultra matte",
         category:"Maquiagens",
@@ -22,8 +22,8 @@ const maquiagemRosto=[
       {
         id:3,
         name:"Glam",
-        image:"./public/baseGlamSkin.png",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/baseGlamSkin.png",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:59.99,
         description:"Base liquida ultra matte",
         category:"Maquiagens",
@@ -31,8 +31,8 @@ const maquiagemRosto=[
       {
         id:4,
         name:"Soul",
-        image:"./public/baseeudora.png",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/baseeudora.png",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:59.99,
         description:"Base liquida ultra matte",
         category:"Maquiagens",
@@ -40,8 +40,8 @@ const maquiagemRosto=[
       {
         id:5,
         name:"Niina Secrets",
-        image:"./public/baseNiinaCores.png",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/baseNiinaCores.png",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:59.99,
         description:"Base liquida ultra matte",
         category:"Maquiagens",
@@ -49,8 +49,8 @@ const maquiagemRosto=[
       {
         id:5,
         name:"GLAM",
-        image:"./public/basePo.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/basePo.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:59.99,
         description:"Base liquida ultra matte",
         category:"Maquiagens",
@@ -61,7 +61,7 @@ const maquiagemRosto=[
 const Rosto = () => {
     return ( 
         <>
-        <img className="logo-rosto" src="./public/makesRosto-logo.jpg" alt="imagem"></img>
+        <img className="logo-rosto" src="/makesRosto-logo.jpg" alt="imagem"></img>
         <h2>
         MAQUIAGEM PARA O ROSTO
         </h2>
@@ -94,27 +94,27 @@ const Rosto = () => {
         <div className="container-cards-produtos">
             <div className="content-cards">
                 <img className="card-base"
-                  src="./public/card-base.webp" alt="imagem"></img>
+                  src="/card-base.webp" alt="imagem"></img>
             </div>
             <div className="content-cards">
                 <img className="card-base"
-                  src="./public/card-corretivo.webp" alt="imagem"></img>
+                  src="/card-corretivo.webp" alt="imagem"></img>
             </div>
             <div className="content-cards">
                 <img className="card-base"
-                  src="./public/card-Po-facial.webp" alt="imagem"></img>
+                  src="/card-Po-facial.webp" alt="imagem"></img>
             </div>
             <div className="content-cards">
                 <img className="card-base"
-                  src="./public/card-iiluminador.webp" alt="imagem"></img>
+                  src="/card-iiluminador.webp" alt="imagem"></img>
             </div>
             <div className="content-cards">
                 <img className="card-base"
-                  src="./public/card-blush.webp" alt="imagem"></img>
+                  src="/card-blush.webp" alt="imagem"></img>
             </div>
             <div className="content-cards">
                 <img className="card-base"
-                  src="./public/card-primer.webp" alt="imagem"></img>
+                  src="/card-primer.webp" alt="imagem"></img>
             </div>
         </div>
 

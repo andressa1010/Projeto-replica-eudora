@@ -5,8 +5,8 @@ const ProdutosMaquiagem=[
     {
         id:1,
         name:"Eudora",
-        image:"./public/paleta01.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/paleta01.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:189.99,
         description:"Palette de Sombras",
         category:"Perfumaria"
@@ -14,8 +14,8 @@ const ProdutosMaquiagem=[
       {
         id:2,
         name:"Eudora",
-        image:"./public/paleta02.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/paleta02.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:189.99,
         description:"Palette de Sombras",
         category:"Perfumaria"
@@ -23,8 +23,8 @@ const ProdutosMaquiagem=[
       {
         id:3,
         name:"Eudora",
-        image:"./public/paleta03.jpg",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/paleta03.jpg",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:189.99,
         description:"Palette de Sombras",
         category:"Perfumaria"
@@ -32,8 +32,8 @@ const ProdutosMaquiagem=[
       {
         id:4,
         name:"Eudora",
-        image:"./public/paleta04.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/paleta04.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:189.99,
         description:"Palette de Sombras",
         category:"Perfumaria"
@@ -41,8 +41,8 @@ const ProdutosMaquiagem=[
       {
         id:5,
         name:"Eudora",
-        image:"./public/paleta05.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/paleta05.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:189.99,
         description:"Palette de Sombras",
         category:"Perfumaria"
@@ -50,8 +50,8 @@ const ProdutosMaquiagem=[
       {
         id:6,
         name:"Eudora",
-        image:"./public/paleta06.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/paleta06.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:189.99,
         description:"Palette de Sombras",
         category:"Perfumaria"
@@ -59,8 +59,8 @@ const ProdutosMaquiagem=[
       {
         id:7,
         name:"Eudora",
-        image:"./public/paleta01.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/paleta01.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:189.99,
         description:"Palette de Sombras",
         category:"Perfumaria"
@@ -68,8 +68,8 @@ const ProdutosMaquiagem=[
       {
         id:8,
         name:"Eudora",
-        image:"./public/paleta02.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/paleta02.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:189.99,
         description:"Palette de Sombras",
         category:"Perfumaria"
@@ -77,8 +77,8 @@ const ProdutosMaquiagem=[
       {
         id:9,
         name:"Eudora",
-        image:"./public/paleta03.jpg",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/paleta03.jpg",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:189.99,
         description:"Palette de Sombras",
         category:"Perfumaria"
@@ -86,8 +86,8 @@ const ProdutosMaquiagem=[
       {
         id:10,
         name:"Eudora",
-        image:"./public/paleta04.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/paleta04.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:189.99,
         description:"Palette de Sombras",
         category:"Perfumaria"
@@ -95,8 +95,8 @@ const ProdutosMaquiagem=[
       {
         id:11,
         name:"Eudora",
-        image:"./public/paleta05.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/paleta05.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:189.99,
         description:"Palette de Sombras",
         category:"Perfumaria"
@@ -104,8 +104,8 @@ const ProdutosMaquiagem=[
       {
         id:12,
         name:"Eudora",
-        image:"./public/paleta06.webp",
-        avaliacao:"./public/estrelinhas-avaliacao.png",
+        image:"/paleta06.webp",
+        avaliacao:"/estrelinhas-avaliacao.png",
         price:189.99,
         description:"Palette de Sombras",
         category:"Perfumaria"
@@ -116,7 +116,7 @@ const ProdutosMaquiagem=[
 const Paletas = () => {
     return ( 
         <>
-        <img className="logo-camila" src="./public/logo-glam-camila.jpg" alt="imagem"></img>
+        <img className="logo-camila" src="/logo-glam-camila.jpg" alt="imagem"></img>
         <div className="text-glam">
         <h2>
             PALETAS DE MAQUIAGEM

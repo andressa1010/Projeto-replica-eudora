@@ -5,8 +5,8 @@ const menuPerfumaria=[
   {
     id:1,
     name:"Eudora",
-    image:"./public/perfume-rose.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/perfume-rose.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Rosé Eau de Parfum ",
     category:"Perfumaria"
@@ -14,8 +14,8 @@ const menuPerfumaria=[
   {
     id:2,
     name:"Eudora",
-    image:"./public/creme-desodorante-hidratante-corporal-rose-250-g-frontal.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/creme-desodorante-hidratante-corporal-rose-250-g-frontal.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:259.80,
     description:"Rosé Eau de Parfum ",
     category:"Perfumaria"
@@ -23,8 +23,8 @@ const menuPerfumaria=[
   {
     id:3,
     name:"Eudora",
-    image:"./public/combo-rose.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/combo-rose.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:259.80,
     description:"Rosé Eau de Parfum ",
     category:"Perfumaria"
@@ -32,8 +32,8 @@ const menuPerfumaria=[
   {
     id:4,
     name:"Eudora",
-    image:"./public/perfume-rose.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/perfume-rose.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:259.80,
     description:"Rosé Eau de Parfum ",
     category:"Perfumaria"
@@ -41,8 +41,8 @@ const menuPerfumaria=[
   {
     id:5,
     name:"Eudora",
-    image:"./public/perfume-rose.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/perfume-rose.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:259.80,
     description:"Rosé Eau de Parfum ",
     category:"Perfumaria"
@@ -54,8 +54,8 @@ const produtosPerfumaria=[
   {
     id:1,
     name:"Eudora",
-    image:"./public/perfume-rose.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/perfume-rose.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Rosé Eau de Parfum ",
     category:"Perfumaria"
@@ -63,8 +63,8 @@ const produtosPerfumaria=[
   {
     id:2,
     name:"Eudora",
-    image:"./public/EudoraFlor.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/EudoraFlor.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Rosé Eau de Parfum ",
     category:"Perfumaria"
@@ -72,8 +72,8 @@ const produtosPerfumaria=[
   {
     id:3,
     name:"Eudora",
-    image:"./public/EudoraDelux.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/EudoraDelux.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Rosé Eau de Parfum ",
     category:"Perfumaria"
@@ -81,8 +81,8 @@ const produtosPerfumaria=[
   {
     id:4,
     name:"Eudora",
-    image:"./public/EudoraFlor.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/EudoraFlor.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Rosé Eau de Parfum ",
     category:"Perfumaria"
@@ -90,8 +90,8 @@ const produtosPerfumaria=[
   {
     id:5,
     name:"Eudora",
-    image:"./public/EudoraMasculinoazul.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/EudoraMasculinoazul.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Rosé Eau de Parfum ",
     category:"Perfumaria"
@@ -100,8 +100,8 @@ const produtosPerfumaria=[
   {
     id:6,
     name:"Eudora",
-    image:"./public/EUDORA-ROYAL.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/EUDORA-ROYAL.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Rosé Eau de Parfum ",
     category:"Perfumaria"
@@ -109,8 +109,8 @@ const produtosPerfumaria=[
   {
     id:7,
     name:"Eudora",
-    image:"./public/EudoraFlor.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/EudoraFlor.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Rosé Eau de Parfum ",
     category:"Perfumaria"
@@ -118,8 +118,8 @@ const produtosPerfumaria=[
   {
     id:8,
     name:"Eudora",
-    image:"./public/EudoraDelux.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/EudoraDelux.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
     description:"Rosé Eau de Parfum ",
     category:"Perfumaria"
@@ -127,8 +127,8 @@ const produtosPerfumaria=[
   {
     id: 9,
     name:"Perfume",
-    image:"./public/perfume01.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/perfume01.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:199.99,
     description:"Eudora Bad Intention Desodorante Colônia",
     categoria:"masculino"
@@ -136,8 +136,8 @@ const produtosPerfumaria=[
 {
     id: 10,
     name:"Perfume",
-    image:"./public/perfume02.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/perfume02.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:199.99,
     description:"Eudora Bad Intention Desodorante Colônia",
     categoria:"masculino"
@@ -145,8 +145,8 @@ const produtosPerfumaria=[
 {
     id: 11,
     name:"Perfume",
-    image:"./public/perfume03.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/perfume03.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:199.99,
     description:"Eudora Bad Intention Desodorante Colônia",
     categoria:"masculino"
@@ -154,8 +154,8 @@ const produtosPerfumaria=[
 {
     id: 12,
     name:"Perfume",
-    image:"./public/perfume04.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/perfume04.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:199.99,
     description:"Eudora Bad Intention Desodorante Colônia",
     categoria:"masculino"
@@ -173,7 +173,7 @@ const Perfumaria = () => {
          Conheça a Perfumaria de Eudora e encontre produtos das linhas
           disponíveis com fragrâncias únicas para deixar a sua marca!
          </p>
-         <img className="logo-perfume" src="./public/header-edp-rosa.webp" alt="logo"></img>
+         <img className="logo-perfume" src="/header-edp-rosa.webp" alt="logo"></img>
 
 
          <div id="produtos-container">
@@ -195,7 +195,7 @@ const Perfumaria = () => {
           <h2>Perfumaria em Oferta</h2>
 
           <img className="logo-pef" 
-          src="./public/header-perfumaria-20.webp" alt="logo"></img>
+          src="/header-perfumaria-20.webp" alt="logo"></img>
 
         <div id="produtos-container">
           {

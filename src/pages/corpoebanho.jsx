@@ -5,8 +5,8 @@ const produtosBanho=[
  {
     id: 1,
     name:"INSTANCE",
-    image:"./public/sabonete1.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/sabonete1.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Sabonete Vegetal em Barra Perfumado Cereja e Amêndoas 4x80g",
     category:"Maquiagens",
@@ -14,8 +14,8 @@ const produtosBanho=[
  {
     id: 2,
     name:"INSTANCE",
-    image:"./public/sabonete2.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/sabonete2.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Sabonete Vegetal em Barra Perfumado Maracujá 4x80g",
     category:"Maquiagens",
@@ -23,8 +23,8 @@ const produtosBanho=[
  {
     id: 3,
     name:"INSTANCE",
-    image:"./public/sabonete3.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/sabonete3.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Sabonete Vegetal em Barra Perfumado Algodão e Jasmim 4x80g",
     category:"Maquiagens",
@@ -32,8 +32,8 @@ const produtosBanho=[
  {
     id: 4,
     name:"INSTANCE",
-    image:"./public/sabonete4.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/sabonete4.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Sabonete Vegetal em Barra Perfumado Cereja e Amêndoas 4x80g",
     category:"Maquiagens",
@@ -41,8 +41,8 @@ const produtosBanho=[
  {
     id: 5,
     name:"INSTANCE",
-    image:"./public/sabonete6.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/sabonete6.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Sabonete Líquido Íntimo Frutas Vermelhas,  higiene e cuidado para a sua região íntima. ",
     category:"Maquiagens",
@@ -50,8 +50,8 @@ const produtosBanho=[
  {
     id: 7,
     name:"INSTANCE",
-    image:"./public/sabonete7.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/sabonete7.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Creme Hidratante Desodorante Corporal Karité 400ml",
     category:"Maquiagens",
@@ -59,8 +59,8 @@ const produtosBanho=[
  {
     id: 8,
     name:"INSTANCE",
-    image:"./public/hidratante1.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/hidratante1.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Creme Hidratante Desodorante Corporal Karité 400ml",
     category:"Maquiagens",
@@ -68,8 +68,8 @@ const produtosBanho=[
  {
     id: 9,
     name:"INSTANCE",
-    image:"./public/hidratante2.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/hidratante2.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Creme Hidratante Desodorante Corporal Karité 400ml",
     category:"Maquiagens",
@@ -77,8 +77,8 @@ const produtosBanho=[
  {
     id: 10,
     name:"INSTANCE",
-    image:"./public/hidratante3.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/hidratante3.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Creme Hidratante Desodorante Corporal Karité 400ml",
     category:"Maquiagens",
@@ -86,8 +86,8 @@ const produtosBanho=[
  {
     id: 11,
     name:"INSTANCE",
-    image:"./public/hidratante4.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/hidratante4.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Creme Hidratante Desodorante Corporal Karité 400ml",
     category:"Maquiagens",
@@ -95,8 +95,8 @@ const produtosBanho=[
  {
     id: 12,
     name:"INSTANCE",
-    image:"./public/hidratante5.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/hidratante5.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Creme Hidratante Desodorante Corporal Karité 400ml",
     category:"Maquiagens",
@@ -104,8 +104,8 @@ const produtosBanho=[
  {
     id: 13,
     name:"INSTANCE",
-    image:"./public/hidratante6.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/hidratante6.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Creme Hidratante Desodorante Corporal Karité 400ml",
     category:"Maquiagens",
@@ -113,8 +113,8 @@ const produtosBanho=[
  {
     id: 14,
     name:"INSTANCE",
-    image:"./public/hidratante7.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/hidratante7.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Creme Hidratante Desodorante Corporal Karité 400ml",
     category:"Maquiagens",
@@ -122,8 +122,8 @@ const produtosBanho=[
  {
     id: 15,
     name:"INSTANCE",
-    image:"./public/hidratante8.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/hidratante8.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Creme Hidratante Desodorante Corporal Karité 400ml",
     category:"Maquiagens",
@@ -131,8 +131,8 @@ const produtosBanho=[
  {
     id: 16,
     name:"INSTANCE",
-    image:"./public/hidratante2.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/hidratante2.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Creme Hidratante Desodorante Corporal Karité 400ml",
     category:"Maquiagens",
@@ -140,8 +140,8 @@ const produtosBanho=[
  {
     id: 17,
     name:"INSTANCE",
-    image:"./public/hidratante3.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/hidratante3.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Creme Hidratante Desodorante Corporal Karité 400ml",
     category:"Maquiagens",
@@ -149,8 +149,8 @@ const produtosBanho=[
  {
     id: 18,
     name:"INSTANCE",
-    image:"./public/hidratante2.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/hidratante2.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Creme Hidratante Desodorante Corporal Karité 400ml",
     category:"Maquiagens",
@@ -158,8 +158,8 @@ const produtosBanho=[
  {
     id: 19,
     name:"INSTANCE",
-    image:"./public/hidratante7.webp",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    image:"/hidratante7.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
     description:"Creme Hidratante Desodorante Corporal Karité 400ml",
     category:"Maquiagens",
@@ -175,7 +175,7 @@ const CorpoeBanho = () => {
         <div className="container-banho">
           <div className="content-banho">
            <img className="logo-banho"
-           src="./public/banner-abertura-lp-corpo-e-banho.jpg"
+           src="/banner-abertura-lp-corpo-e-banho.jpg"
            alt="imagem"></img>
            </div>
         </div>
@@ -209,23 +209,23 @@ const CorpoeBanho = () => {
             <div className="container-cuidados">
                 <div className="content-banho">
                     <img className="cuidados"
-                      src="./public/corpo-e-banho-01-sabonete.webp" alt="imagem"></img>
+                      src="/corpo-e-banho-01-sabonete.webp" alt="imagem"></img>
                 </div>
                 <div className="content-banho">
                     <img className="cuidados"
-                      src="./public/corpo-e-banho-02-esfoliante.webp" alt="imagem"></img>
+                      src="/corpo-e-banho-02-esfoliante.webp" alt="imagem"></img>
                 </div>
                 <div className="content-banho">
                     <img className="cuidados"
-                      src="./public/corpo-e-banho-03-hidratante.webp" alt="imagem"></img>
+                      src="/corpo-e-banho-03-hidratante.webp" alt="imagem"></img>
                 </div>
                 <div className="content-banho">
                     <img className="cuidados"
-                      src="./public/corpo-e-banho-04-aleo-corporal.webp" alt="imagem"></img>
+                      src="/corpo-e-banho-04-aleo-corporal.webp" alt="imagem"></img>
                 </div>
                 <div className="content-banho">
                     <img className="cuidados"
-                      src="./public/corpo-e-banho-05-desodorante.webp" alt="imagem"></img>
+                      src="/corpo-e-banho-05-desodorante.webp" alt="imagem"></img>
                 </div>
             </div>
 

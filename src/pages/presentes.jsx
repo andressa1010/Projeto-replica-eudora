@@ -4,8 +4,8 @@ const produtosPresentes=[
        {
         id:1,
             name:"Eudora",
-            image:"./public/presente1.webp",
-            avaliacao:"./public/estrelinhas-avaliacao.png",
+            image:"/presente1.webp",
+            avaliacao:"/estrelinhas-avaliacao.png",
             price:189.99,
             description:"kit presente ",
             category:"Perfumaria"
@@ -13,8 +13,8 @@ const produtosPresentes=[
           {
             id:2,
             name:"Eudora",
-            image:"./public/presente2.webp",
-            avaliacao:"./public/estrelinhas-avaliacao.png",
+            image:"/presente2.webp",
+            avaliacao:"/estrelinhas-avaliacao.png",
             price:259.80,
             description:"kit presente  ",
             category:"Perfumaria"
@@ -22,8 +22,8 @@ const produtosPresentes=[
           {
             id:3,
             name:"Eudora",
-            image:"./public/presente3.webp",
-            avaliacao:"./public/estrelinhas-avaliacao.png",
+            image:"/presente3.webp",
+            avaliacao:"/estrelinhas-avaliacao.png",
             price:259.80,
             description:"kit presente",
             category:"Perfumaria"
@@ -31,8 +31,8 @@ const produtosPresentes=[
           {
             id:4,
             name:"Eudora",
-            image:"./public/presente4.webp",
-            avaliacao:"./public/estrelinhas-avaliacao.png",
+            image:"/presente4.webp",
+            avaliacao:"/estrelinhas-avaliacao.png",
             price:259.80,
             description:"kit presente ",
             category:"Perfumaria"
@@ -40,8 +40,8 @@ const produtosPresentes=[
           {
             id:5,
             name:"Eudora",
-            image:"./public/presente5.webp",
-            avaliacao:"./public/estrelinhas-avaliacao.png",
+            image:"/presente5.webp",
+            avaliacao:"/estrelinhas-avaliacao.png",
             price:259.80,
             description:"kit presente",
             category:"Perfumaria"
@@ -54,7 +54,7 @@ const Presentes = () => {
     return ( 
         <>
         <img className="logo-presente" 
-        src="./public/bannercategoria-presentes .webp" alt="logo"></img>
+        src="/bannercategoria-presentes .webp" alt="logo"></img>
 
         <h2>
         PRESENTEAR EUDORA
