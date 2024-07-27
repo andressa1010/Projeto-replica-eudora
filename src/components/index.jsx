@@ -145,7 +145,7 @@ const maquiagemEmDestaque=[
     id:3,
     name:"Glam",
     image:"/baseGlamSkin.png",
-    avaliacao:"./public/estrelinhas-avaliacao.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
     price:59.99,
     description:"Base liquida ultra matte",
     category:"Maquiagens",
