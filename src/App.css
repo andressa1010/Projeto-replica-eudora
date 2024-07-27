@@ -1,0 +1,501 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--dark-color);
+}
+
+a{
+  text-decoration: none;
+  color: unset;
+}
+
+.nav{
+  background-color: #fff;
+  padding: 1rem;
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1;
+
+}
+
+.nav .conteudo-interno{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1300px;
+  margin-inline: auto;
+ 
+}
+
+.logo{
+  color: goldenrod;
+}
+
+
+nav ul{
+  display: flex;
+  list-style: none;
+  align-items: center;
+  gap: 1rem;
+}
+
+nav ul li:hover{
+  transform: translateY(-2px);
+  transition: all 0.2s;
+  color:#e07800;
+}
+
+.nav-icons-container{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.nav-icons-container svg{
+  height: 1.5rem;
+}
+
+.nav-icons-container .shopping-cart{
+  position: relative;
+  
+}
+
+.nav-icons-container .shopping-cart .produtos-disconto{
+  content: "";
+  position: absolute;
+  background-color: crimson;
+  width: 1rem;
+  height: 1rem;
+  bottom: -8px;
+  left: -8px;
+  border-radius: 50%;
+  color: #fff;
+  padding: 0.7rem;
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.shopping-cart{
+  border: none;
+  cursor: pointer;
+}
+
+.search-input-container{
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  border-bottom: 1px solid var(--dark-color);
+  padding: 0.5rem;
+  margin-right: 1rem;
+}
+
+
+.search-input-container input{
+border: none;
+outline: none;
+}
+
+.search-input-container svg{
+  height: 1rem;
+  color: #808080;
+}
+
+
+.menu-button{
+  border-style: none;
+
+}
+
+
+.desainer-logo{
+  display: flex;
+  justify-content: center;
+}
+
+.desainer-rotas , .container-imgs{
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-rotas img{
+  width: 200px;
+}
+
+.logo-destaque{
+  width: 300px;
+}
+
+
+#produtos-container{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.produto{
+  border: 1px solid #dddd;
+  margin: 10px;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+}
+
+.produto img{
+  max-width: 100%;
+  height: auto;
+}
+
+.avaliacoes{
+  width: 100px;
+}
+
+p{
+  font-size: 20px;
+}
+
+
+button{
+  border-style: none;
+  padding: 10px;
+  font-size: 20px;
+  background-color:peru;
+  color: #ffffff;
+}
+
+
+.cards-container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card{
+  width: 200px;
+}
+
+.logo{
+  width: 1400px;
+}
+
+
+.card-img , .card-log{
+  width: 200px;
+}
+
+
+.cards-destaque{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card-logo{
+  width: 500px;
+}
+
+.logo-container{
+  display: flex;
+  justify-content: center;
+}
+
+.logo-masculino{
+  width: 1400px;
+}
+
+.logo-make{
+  width: 1400px;
+}
+
+.container-makeup{
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.makeup-log{
+  width: 400px;
+}
+
+.container-cads{
+  display: flex;
+  justify-content: space-between;
+}
+
+.content-cads{
+  width: 200px;
+}
+
+.img-logo-cards{
+   width: 200px;
+}
+
+.container-avaliacao{
+  display: flex;
+  justify-content: space-around;
+}
+
+.avaliacao-cliente{
+  width: 400px;
+}
+
+.logo-pef{
+  width: 1400px;
+}
+
+.logo-makups{
+  display: flex;
+  justify-content: center;
+}
+
+
+.cupom {
+  position: relative;
+  display: inline-block;
+}
+
+.cupom-image {
+  width: 100%;
+  height: auto;
+}
+
+.prev-button,
+.next-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.prev-button {
+  left: 10px;
+}
+
+.next-button {
+  right: 10px;
+}
+
+.text-glam{
+  display: flex;
+  justify-content: center;
+}
+
+
+.container-rotas-destaque{
+  display: flex;
+  justify-content: space-between;
+}
+
+.destaque-make{
+  width: 200px;
+}
+
+.logo-boca{
+  width: 1400px;
+}
+
+.boca-acabamento{
+  display: flex;
+  justify-content: space-between;
+}
+
+.boca{
+  width: 200px;
+}
+
+.logo-rosto{
+  width: 1400px;
+}
+
+.container-cards-produtos{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-base{
+   width: 200px;
+}
+
+.logo-olhos{
+   width: 1400px;
+}
+
+.container-banho{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.container-cuidados{
+  display: flex;
+  justify-content: space-between;
+}
+
+.cuidados{
+  width: 200px;
+}
+
+.container-skin{
+  display: flex;
+  justify-content: center;
+}
+
+
+.container-cards-masculino{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.img-card{
+  width: 250px;
+}
+
+
+.container-unhas{
+  display: flex;
+  justify-content: center;
+  
+}
+
+
+
+@media(max-width:765px){
+ 
+  .desainer-rotas , .container-imgs{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .cards-container{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .desainer-logo{
+    display: flex;
+    flex-direction: column;
+    
+  }
+  .logo-cabelos{
+    width: 460px;
+  }
+  .logo{
+    width: 800px;
+  }
+  .logo-masculino{
+    width: 550px;
+  }
+  .container-makeup{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .container-cads{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .logo-container-make{
+    display: flex;
+  }
+  .logo-maquiagem{
+    width: 460px;
+  }
+  .logo-make{
+    width: 500px;
+  }
+  .container-avaliacao{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .logo-makup{
+    width: 510px;
+  }
+  .container-rotas-destaque{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .logo-boca{
+    width: 500px;
+  }
+  .logo-rosto{
+    width: 600px;
+  }
+  .container-cards-produtos{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .logo-camila{
+    width: 500px;
+  }
+}
+
+
+/*media nav e header */
+@media(max-width: 920px){
+  .nav h1{
+      font-size: 1.2rem;
+  }
+
+  header .inner-content{
+      gap: 2rem;
+      padding: 1.5rem;
+      padding-top: 3rem;
+  }
+
+  header .left-side h2{
+      font-size: 1.8rem;
+  }
+
+  nav{
+      position: absolute;
+      top: 55px;
+      left: 0;
+      width: 100%;
+      padding-bottom: 1rem;
+      display: none;
+  }
+
+  .nav .show{
+      display: block;
+  }
+
+  nav ul{
+      flex-direction: column;
+      gap: 1.5rem;
+  }
+
+  nav ul li{
+      text-align: center;
+      padding: 0.8rem;
+  }
+  .menu-button{
+      display: inline;
+  }
+}
+
+@media(max-width: 780px){
+  header .inner-content{
+      grid-template-columns: 1fr;
+  }
+}
+
+@media(max-width: 580px){
+  .search-input-container{
+      display: none;
+  }
+}
