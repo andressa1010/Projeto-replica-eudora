@@ -167,7 +167,7 @@ const Perfumaria = () => {
     return (
         <>
          <h2>
-         PERFUMARIA EUDORA: EAU DE PARFUM E DESODORANTE COLÔNIA
+         PERFUMARIA EUDORA
          </h2>
          <p>
          Conheça a Perfumaria de Eudora e encontre produtos das linhas

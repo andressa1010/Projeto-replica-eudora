@@ -464,7 +464,8 @@ const Header = () => {
           {
             produtosEudora.map((produto)=>(
               <div key={produto.id} className="produto">
-                 <img src={produto.image} alt={produto.name}></img>
+                 <img 
+                 src={produto.image} alt={produto.name}></img>
                  <p> {produto.name}</p>
                  <span> {produto.description}  </span>
                  <img className="avaliacoes"

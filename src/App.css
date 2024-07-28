@@ -442,6 +442,27 @@ button{
   .logo-camila{
     width: 500px;
   }
+  .logo-perfume{
+    width: 700px;
+  }
+  .logo-pef{
+    width: 500px;
+  }
+  .logo-presente{
+    width: 500px;
+  }
+  .container-cuidados{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .logo-banho{
+    width: 500px;
+  }
+  .logo-olhos{
+    width: 600px;
+  }
+  
 }
 
 
@@ -499,3 +520,5 @@ button{
       display: none;
   }
 }
+
+

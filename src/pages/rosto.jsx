@@ -110,11 +110,11 @@ const Rosto = () => {
             </div>
             <div className="content-cards">
                 <img className="card-base"
-                  src="/card-blush.webp" alt="imagem"></img>
+                  src="/card-Blush.webp" alt="imagem"></img>
             </div>
             <div className="content-cards">
                 <img className="card-base"
-                  src="/card-primer.webp" alt="imagem"></img>
+                  src="/card-Primer.webp" alt="imagem"></img>
             </div>
         </div>
 
