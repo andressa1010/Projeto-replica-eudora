@@ -1,4 +1,5 @@
 import React from "react";
+import Menu from "../components/menu";
 
 const batomSoul=[
     {
@@ -148,6 +149,7 @@ const todosOsProdutos=[
 const Boca = () => {
     return ( 
         <>
+        <Menu/>
         <img className="logo-boca" src="/logoCoresBatom.jpg" alt="logo"></img>
         <h2>
         BATOM, BATOM LÍQUIDO E LIP TINT

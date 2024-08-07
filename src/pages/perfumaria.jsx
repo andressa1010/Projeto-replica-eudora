@@ -1,4 +1,5 @@
 import React from "react";
+import Menu from "../components/menu";
 
 
 const menuPerfumaria=[
@@ -166,6 +167,7 @@ const produtosPerfumaria=[
 const Perfumaria = () => {
     return (
         <>
+        <Menu/>
          <h2>
          PERFUMARIA EUDORA
          </h2>

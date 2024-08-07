@@ -1,4 +1,5 @@
 import React from "react";
+import Menu from "../components/menu";
 
 const produtosPresentes=[
        {
@@ -53,6 +54,7 @@ const produtosPresentes=[
 const Presentes = () => {
     return ( 
         <>
+        <Menu/>
         <img className="logo-presente" 
         src="/bannercategoria-presentes .webp" alt="logo"></img>
 

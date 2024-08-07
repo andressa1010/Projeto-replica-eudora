@@ -1,4 +1,5 @@
 import React from "react";
+import Menu from "../components/menu";
 
 const produtosMaquiagem=[
   {
@@ -103,6 +104,7 @@ const produtosbaseebatom=[
 const Maquiagem = () => {
     return (
         <>
+        <Menu/>
         <div className="logo-container-make">
         <img className="logo-maquiagem" 
         src="/bannercategoria-linha-maquiagem (1).webp"

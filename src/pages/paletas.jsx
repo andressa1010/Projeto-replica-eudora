@@ -1,4 +1,5 @@
 import React from "react";
+import Menu from "../components/menu";
 
 
 const ProdutosMaquiagem=[
@@ -116,6 +117,7 @@ const ProdutosMaquiagem=[
 const Paletas = () => {
     return ( 
         <>
+        <Menu/>
         <img className="logo-camila" src="/logo-glam-camila.jpg" alt="imagem"></img>
         <div className="text-glam">
         <h2>

@@ -1,4 +1,5 @@
 import React from "react";
+import Menu from "../components/menu";
 
 
 const produtosBanho=[
@@ -171,7 +172,9 @@ const produtosBanho=[
 
 const CorpoeBanho = () => {
     return ( 
+
         <>
+        <Menu/>
         <div className="container-banho">
           <div className="content-banho">
            <img className="logo-banho"

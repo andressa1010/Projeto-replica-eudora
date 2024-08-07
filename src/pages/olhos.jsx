@@ -1,4 +1,5 @@
 import React from "react";
+import Menu from "../components/menu";
 
 const produtosCuidados=[
     {
@@ -227,6 +228,7 @@ const maquiagemParaOsOlhos=[
 const Olhos = () => {
     return ( 
         <>
+        <Menu/>
          <img className="logo-olhos" src="/header-logo-olhos.webp" alt="logo"></img>
 
           <div className="text-glam">

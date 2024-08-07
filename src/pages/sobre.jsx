@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "../components";
+import Menu from "../components/menu";
 
 
 
@@ -7,7 +7,7 @@ import Header from "../components";
 const Sobre = () => {
     return ( 
         <>
-        <Header/>
+        <Menu/>
         </>
      );
 }

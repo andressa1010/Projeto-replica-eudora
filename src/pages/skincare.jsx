@@ -1,4 +1,5 @@
 import React from "react";
+import Menu from "../components/menu";
 
 
 const produtosSkinCare=[
@@ -55,6 +56,7 @@ const produtosSkinCare=[
 const Skincare = () => {
     return (
         <>
+        <Menu/>
           <div className="container-skin">
           <img className="logo-skincare" src="/banner-skincare-desk.webp" alt="logo"></img>
           </div>

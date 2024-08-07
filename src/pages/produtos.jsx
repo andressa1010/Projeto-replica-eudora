@@ -1,12 +1,12 @@
 import React from "react";
-import Header from "../components";
+import Menu from "../components/menu";
 
 
 
 const Produtos = () => {
     return ( 
         <>
-         <Header/>
+         <Menu/>
         </>
      );
 }

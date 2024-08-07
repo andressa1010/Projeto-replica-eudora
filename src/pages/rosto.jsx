@@ -1,4 +1,5 @@
 import React from "react";
+import Menu from "../components/menu";
 
 const maquiagemRosto=[
     {
@@ -61,6 +62,7 @@ const maquiagemRosto=[
 const Rosto = () => {
     return ( 
         <>
+        <Menu/>
         <img className="logo-rosto" src="/makesRosto-logo.jpg" alt="imagem"></img>
         <h2>
         MAQUIAGEM PARA O ROSTO

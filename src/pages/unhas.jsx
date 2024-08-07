@@ -1,4 +1,5 @@
 import React from "react";
+import Menu from "../components/menu";
 
 const produtosUnhas = [
   {
@@ -60,6 +61,7 @@ const produtosUnhas = [
 const Unhas = () => {
   return (
     <>
+    <Menu/>
       <div className="container-unhas">
         <div className="content-unhas">
           <h2>ESMALTE PARA AS UNHAS</h2>
