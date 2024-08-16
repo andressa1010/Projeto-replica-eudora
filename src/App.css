@@ -562,7 +562,7 @@ button{
   }
   .desainer-rotas{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
   }
   .container-rotas{
     width: 150px;
