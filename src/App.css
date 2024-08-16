@@ -557,7 +557,7 @@ button{
     justify-content: space-between;
     flex-wrap: wrap;
   }
-  .produto, {
+  .produto {
     width: 150px;
   }
   .desainer-rotas{
@@ -565,7 +565,7 @@ button{
     justify-content: space-around;
   }
   .container-rotas{
-    width: 150px;
+    width: 100px;
   }
  
   button{
