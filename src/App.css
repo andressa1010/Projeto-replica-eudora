@@ -552,13 +552,17 @@ button{
 }
 
 @media(max-width:432px){
-  #produtos-container, .desainer-rotas{
+  #produtos-container{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
   }
   .produto {
     width: 150px;
+  }
+  .desainer-rotas{
+    display: flex;
+    justify-content: space-around;
   }
  
   button{
@@ -567,8 +571,3 @@ button{
 }
 
 
-@media(max-width:402px){
-  .container-rotas{
-    width: 150px;
-  }
-}
