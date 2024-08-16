@@ -562,12 +562,10 @@ button{
   }
   .desainer-rotas{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
   }
   .container-rotas{
     width: 200px;
-    padding: 10px;
-    margin: 10px;
   }
  
   button{
