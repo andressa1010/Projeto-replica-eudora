@@ -567,7 +567,11 @@ button{
   .container-rotas{
     width: 140px;
   }
- 
+  .logo-makup{
+    width: 400px;
+  }
+  
+
   button{
     font-size: 16px;
   }
