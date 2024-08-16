@@ -65,7 +65,7 @@ const produtosEudora=[
     image:"/img-liso-cauterização.png",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
-    description:"Combo SiàgeCondicionador  200ml + Shampoo ",
+    description:"Combo SiàgeCondicionador  200ml + Shampoo 200ml siage tratamento que seu cabelo merece com omega3",
     categoria: "cabelos",
   },
   {
@@ -110,7 +110,7 @@ const produtosEudora=[
     image:"/img-combo-siage-shampoo-condicionador-mascara.png",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
-    description:"Combo SiàgeCondicionador  200ml + Shampoo ",
+    description:"Combo SiàgeCondicionador  200ml + Shampoo siage 200ml + mascara,  siage tratamento que seu cabelo merece com omega3 ",
     categoria: "cabelos",
   },
 
@@ -297,7 +297,7 @@ const produtosMaisVendidos=[
     image:"/kitsBatomRosaVermelho.png",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:109.99,
-    description:"Combo Batom Eudora Microplastia: Rose Delicado 3,3g + Nude Rosado 3,3g",
+    description:"Combo Batom Eudora Microplastia: Rose Delicado 3,3g + Nude Rosado 3,3g , cores rosa, vermelho, vinho,roxo, marrom",
     category:"Maquiagens"
   },
   {
@@ -306,7 +306,7 @@ const produtosMaisVendidos=[
     image:"/MASC-CIL-SOUL-VOLUMACO.webp",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:109.99,
-    description:"Máscara Para Cílios Eudora Volume 8,5g, A máscara de cílios ideal é aquela que realça a beleza do seu olhar",
+    description:"Máscara Para Cílios Eudora Volume 8,5g, A máscara de cílios eudora glam é ideal para dar aquela  realçada na beleza do seu olhar",
     category:"Maquiagens"
   },
   {
@@ -434,7 +434,7 @@ const Home = () => {
                  <img className="avaliacoes"
                  src={produto.avaliacao} alt={produto.name}></img>
                  <p> {produto.price}  </p>
-                 <button>comprar</button>
+                 <button>comprar agora</button>
                 </div>
             ))
           }
@@ -455,7 +455,7 @@ const Home = () => {
                  <img className="avaliacoes"
                  src={produto.avaliacao} alt={produto.name}></img>
                  <p> {produto.price}  </p>
-                 <button>comprar</button>
+                 <button>comprar agora</button>
                 </div>
             ))
           }
@@ -477,7 +477,7 @@ const Home = () => {
                  <img className="avaliacoes"
                  src={produto.avaliacao} alt={produto.name}></img>
                  <p> {produto.price}  </p>
-                 <button>comprar</button>
+                 <button>comprar agora</button>
                 </div>
             ))
           }
@@ -501,7 +501,7 @@ const Home = () => {
                  <img className="avaliacoes"
                  src={produto.avaliacao} alt={produto.name}></img>
                  <p> {produto.price}  </p>
-                 <button>comprar</button>
+                 <button>comprar agora</button>
                 </div>
             ))
           }

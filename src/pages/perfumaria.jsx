@@ -48,6 +48,15 @@ const menuPerfumaria=[
     description:"Rosé Eau de Parfum ",
     category:"Perfumaria"
   },
+  {
+    id:6,
+    name:"Eudora",
+    image:"/creme-desodorante-hidratante-corporal-rose-250-g-frontal.webp",
+    avaliacao:"/estrelinhas-avaliacao.png",
+    price:259.80,
+    description:"Rosé Eau de Parfum ",
+    category:"Perfumaria"
+  },
 ]
 
 
@@ -113,7 +122,7 @@ const produtosPerfumaria=[
     image:"/EudoraFlor.png",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
-    description:"Rosé Eau de Parfum ",
+    description:"Eudora Eau De Parfum, o famoso eudora roxo",
     category:"Perfumaria"
   },
   {
@@ -122,7 +131,7 @@ const produtosPerfumaria=[
     image:"/EudoraDelux.png",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
-    description:"Rosé Eau de Parfum ",
+    description:"Rosé Eau de Parfum, o famoso eudora ouro ",
     category:"Perfumaria"
   },
   {
@@ -168,13 +177,26 @@ const Perfumaria = () => {
     return (
         <>
         <Menu/>
+
+        <div className="text-glam">
+          <img className="logo-perfumaria"
+           src="/perfumaria-logo.webp" alt="logo"></img>
+        </div>
+
+         <div className="text-glam">
          <h2>
          PERFUMARIA EUDORA
          </h2>
+         </div>
+
          <p>
          Conheça a Perfumaria de Eudora e encontre produtos das linhas
           disponíveis com fragrâncias únicas para deixar a sua marca!
          </p>
+
+         <div className="text-glam">
+          <h2>  Você vai amar nossas sugestões exclusivas para você:</h2>
+         </div>
          <img className="logo-perfume" src="/header-edp-rosa.webp" alt="logo"></img>
 
 

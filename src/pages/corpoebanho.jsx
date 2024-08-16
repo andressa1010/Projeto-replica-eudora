@@ -45,7 +45,7 @@ const produtosBanho=[
     image:"/sabonete6.webp",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:44.99,
-    description:"Sabonete Líquido Íntimo Frutas Vermelhas,  higiene e cuidado para a sua região íntima. ",
+    description:"Sabonete Líquido Íntimo Frutas Vermelhas,  higiene e cuidado ",
     category:"Maquiagens",
  }, 
  {

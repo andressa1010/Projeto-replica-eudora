@@ -369,11 +369,27 @@ button{
   
 }
 
+.logo-contato{
+  width: 200px;
+}
 
+.container-niina{
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.niina{
+  width: 300px;
+}
+
+.niina-po{
+  width: 250px;
+}
 
 @media(max-width:765px){
  
-  .desainer-rotas , .container-imgs{
+  .desainer-rotas , .container-imgs, .container-niina{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -461,6 +477,12 @@ button{
   }
   .logo-olhos{
     width: 600px;
+  }
+  .logo-niina{
+    width: 500px;
+  }
+  .logo-perfumaria{
+    width: 510px;
   }
   
 }

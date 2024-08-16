@@ -47,6 +47,15 @@ const produtosMaquiagem=[
     description:"Combo Glamourosa e Incomparável: Batom Malva 3,4g + Case",
     category:"Maquiagens",
   },
+  {
+    id: 6,
+    name:"Glam",
+    image:"/glam-batom-vinho.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
+    price:44.99,
+    description:"Combo Glamourosa e Incomparável: Batom Malva 3,4g + Case",
+    category:"Maquiagens",
+  },
 
 ]
 
@@ -97,6 +106,15 @@ const produtosbaseebatom=[
     description:"Base liquida ultra matte",
     category:"Maquiagens",
   },
+  {
+    id:6,
+    name:"Soul",
+    image:"/MascaraDeCiliosEudora.png",
+    avaliacao:"/estrelinhas-avaliacao.png",
+    price:59.99,
+    description:"Base liquida ultra matte",
+    category:"Maquiagens",
+  },
 ]
 
 
@@ -134,7 +152,7 @@ const Maquiagem = () => {
                  <img className="avaliacoes"
                  src={produto.avaliacao} alt={produto.name}></img>
                  <p> {produto.price}  </p>
-                 <button>comprar</button>
+                 <button>comprar agora</button>
                 </div>
             ))
           }
@@ -206,7 +224,7 @@ const Maquiagem = () => {
                  <img className="avaliacoes"
                  src={produto.avaliacao} alt={produto.name}></img>
                  <p> {produto.price}  </p>
-                 <button>comprar</button>
+                 <button>comprar agora</button>
                 </div>
             ))
           }

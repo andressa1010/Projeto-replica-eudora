@@ -8,7 +8,7 @@ const produtosCuidados=[
         image:"/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
         avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
-        description:"Hidratante Redutor de Olheiras Niina Skin 15g",
+        description:"Hidratante Redutor de Olheiras Niina Skin 15g , pele mais lisa",
         category:"cosmeticos",
       },
       {
@@ -26,7 +26,7 @@ const produtosCuidados=[
         image:"/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
         avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
-        description:"Hidratante Redutor de Olheiras Niina Skin 15g",
+        description:"Hidratante Redutor de Olheiras Niina Skin 15g , pele mais lisa",
         category:"cosmeticos",
       },
       {
@@ -44,7 +44,7 @@ const produtosCuidados=[
         image:"/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
         avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
-        description:"Hidratante Redutor de Olheiras Niina Skin 15g",
+        description:"Hidratante Redutor de Olheiras Niina Skin 15g, pele mais lisa",
         category:"cosmeticos",
       },
       {
@@ -62,7 +62,7 @@ const produtosCuidados=[
         image:"/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
         avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
-        description:"Hidratante Redutor de Olheiras Niina Skin 15g",
+        description:"Hidratante Redutor de Olheiras Niina Skin 15g, pele mais lisa",
         category:"cosmeticos",
       },
       {
@@ -80,7 +80,7 @@ const produtosCuidados=[
         image:"/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
         avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
-        description:"Hidratante Redutor de Olheiras Niina Skin 15g",
+        description:"Hidratante Redutor de Olheiras Niina Skin 15g, pele mais lisa",
         category:"cosmeticos",
       },
       {
@@ -98,7 +98,7 @@ const produtosCuidados=[
         image:"/NIINA-SKIN_HIDRATANTE-REDUTOR_OLHEIRAS_FRONTAL_01.webp",
         avaliacao:"/estrelinhas-avaliacao.png",
         price:149.99,
-        description:"Hidratante Redutor de Olheiras Niina Skin 15g",
+        description:"Hidratante Redutor de Olheiras Niina Skin 15g, pele mais lisa",
         category:"cosmeticos",
       },
       {
@@ -210,7 +210,7 @@ const maquiagemParaOsOlhos=[
     image:"/paleta05.webp",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
-    description:"Palette de Sombras",
+    description:"Palette de Sombras, multi colorida ",
     category:"Perfumaria"
   },
   {
@@ -219,7 +219,7 @@ const maquiagemParaOsOlhos=[
     image:"/paleta06.webp",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:189.99,
-    description:"Palette de Sombras",
+    description:"Palette de Sombras , multi colorida",
     category:"Perfumaria"
   },
 ]
@@ -248,7 +248,7 @@ const Olhos = () => {
                  <img className="avaliacoes"
                  src={produto.avaliacao} alt={produto.name}></img>
                  <p> {produto.price}  </p>
-                 <button>comprar</button>
+                 <button>comprar agora</button>
                 </div>
             ))
           }

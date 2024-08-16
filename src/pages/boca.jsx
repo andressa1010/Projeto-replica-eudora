@@ -123,7 +123,7 @@ const todosOsProdutos=[
         image:"/kitsBatomRosaVermelho.png",
         avaliacao:"/estrelinhas-avaliacao.png",
         price:109.99,
-        description:"Com o Combo Eudora Glam Microplastia você tem as cores mais lindas com efeito de plástica labial para ressaltar sua beleza e te deixar pronta para qualquer ocasião.",
+        description:"Com o Combo Eudora Glam Microplastia você tem as cores mais lindas com efeito de plástica labial para ressaltar sua beleza , cores quentes",
         category:"Maquiagens"
       },
       {

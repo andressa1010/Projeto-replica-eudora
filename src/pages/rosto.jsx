@@ -8,7 +8,7 @@ const maquiagemRosto=[
         image:"/baseeudora.png",
         avaliacao:"/estrelinhas-avaliacao.png",
         price:59.99,
-        description:"Base liquida ultra matte",
+        description:"Base liquida ultra matte , para dar aquela realçada na sua beleza",
         category:"Maquiagens",
       },
       {
@@ -17,7 +17,7 @@ const maquiagemRosto=[
         image:"/baseNiinaSecrests.png",
         avaliacao:"/estrelinhas-avaliacao.png",
         price:59.99,
-        description:"Base liquida ultra matte",
+        description:"Base liquida ultra matte, para dar aquela realçada na sua beleza",
         category:"Maquiagens",
       },
       {
@@ -26,7 +26,7 @@ const maquiagemRosto=[
         image:"/baseGlamSkin.png",
         avaliacao:"/estrelinhas-avaliacao.png",
         price:59.99,
-        description:"Base liquida ultra matte",
+        description:"Base liquida ultra matte, para dar aquela realçada na sua beleza",
         category:"Maquiagens",
       },
       {
@@ -35,7 +35,7 @@ const maquiagemRosto=[
         image:"/baseeudora.png",
         avaliacao:"/estrelinhas-avaliacao.png",
         price:59.99,
-        description:"Base liquida ultra matte",
+        description:"Base liquida ultra matte, para dar aquela realçada na sua beleza",
         category:"Maquiagens",
       },
       {
@@ -44,18 +44,19 @@ const maquiagemRosto=[
         image:"/baseNiinaCores.png",
         avaliacao:"/estrelinhas-avaliacao.png",
         price:59.99,
-        description:"Base liquida ultra matte",
+        description:"Base liquida ultra matte,para dar aquela realçada na sua beleza ,",
         category:"Maquiagens",
       },
       {
-        id:5,
-        name:"GLAM",
-        image:"/basePo.webp",
+        id:6,
+        name:"Soul",
+        image:"/baseeudora.png",
         avaliacao:"/estrelinhas-avaliacao.png",
         price:59.99,
-        description:"Base liquida ultra matte",
+        description:"Base liquida ultra matte, para dar aquela realçada na sua beleza",
         category:"Maquiagens",
       },
+    
 ]
 
 
@@ -87,7 +88,7 @@ const Rosto = () => {
                  <img className="avaliacoes"
                  src={produto.avaliacao} alt={produto.name}></img>
                  <p> {produto.price}  </p>
-                 <button>comprar</button>
+                 <button>comprar agora</button>
                 </div>
             ))
           }
