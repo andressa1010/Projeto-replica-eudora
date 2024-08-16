@@ -565,6 +565,7 @@ button{
     justify-content: space-around;
   }
   .container-rotas{
+    margin: 10px;
     width: 140px;
   }
  
