@@ -557,7 +557,7 @@ button{
     justify-content: space-between;
     flex-wrap: wrap;
   }
-  .produto , .img-rotas{
+  .produto {
     width: 150px;
   }
  
@@ -567,3 +567,8 @@ button{
 }
 
 
+@media(max-width:402px){
+  .container-rotas{
+    width: 150px;
+  }
+}
