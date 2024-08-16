@@ -11,7 +11,7 @@ const produtosEudora=[
     image:"/img-combo_eudora_siage_cachos_shampoo_condicionador_mascara.png",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
-    description:"Combo SiágeCondicionador 200ml + Shampoo",
+    description:"Combo Siáge Condicionador 200ml + Shampoo",
     category:"cosmeticos",
   },
   {
@@ -20,7 +20,7 @@ const produtosEudora=[
     image:"/img-shampoo-e-condicionador.png",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
-    description:"Combo SiàgeCondicionador  200ml + Shampoo ",
+    description:"Combo Siàge Condicionador  200ml + Shampoo ",
     categoria: "cabelos",
   },
   {
@@ -29,7 +29,7 @@ const produtosEudora=[
     image:"/img-combo_eudora_siage_cachos_shampoo_condicionador_mascara.png",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
-    description:"Combo SiàgeCondicionador  200ml + Shampoo",
+    description:"Combo Siàge Condicionador  200ml + Shampoo",
     categoria: "cabelos",
   },
   {
@@ -38,7 +38,7 @@ const produtosEudora=[
     image:"/img-combo-siage-shampoo-condicionador-mascara.png",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
-    description:"Combo SiàgeCondicionador  200ml + Shampoo ",
+    description:"Combo Siàge Condicionador  200ml + Shampoo ",
     categoria: "cabelos",
   },
   {
@@ -47,7 +47,7 @@ const produtosEudora=[
     image:"/img-combo-siage-shampoo-condicionador-mascara.png",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
-    description:"Combo SiàgeCondicionador  200ml + Shampoo ",
+    description:"Combo Siàge Condicionador  200ml + Shampoo ",
     categoria: "cabelos",
   },
   {
@@ -56,7 +56,7 @@ const produtosEudora=[
     image:"/img-liso-cauterização.png",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
-    description:"Combo SiàgeCondicionador  200ml + Shampoo ",
+    description:"Combo Siàge Condicionador  200ml + Shampoo ",
     categoria: "cabelos",
   },
   {
@@ -65,7 +65,7 @@ const produtosEudora=[
     image:"/img-liso-cauterização.png",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
-    description:"Combo SiàgeCondicionador  200ml + Shampoo 200ml siage tratamento que seu cabelo merece com omega3",
+    description:"Combo Siàge Condicionador  200ml + Shampoo 200ml siage tratamento que seu cabelo merece com omega3",
     categoria: "cabelos",
   },
   {
@@ -110,7 +110,7 @@ const produtosEudora=[
     image:"/img-combo-siage-shampoo-condicionador-mascara.png",
     avaliacao:"/estrelinhas-avaliacao.png",
     price:149.99,
-    description:"Combo SiàgeCondicionador  200ml + Shampoo siage 200ml + mascara,  siage tratamento que seu cabelo merece com omega3 ",
+    description:"Combo Siàge Condicionador  200ml + Shampoo siage 200ml + mascara,  siage tratamento que seu cabelo merece com omega3 ",
     categoria: "cabelos",
   },
 

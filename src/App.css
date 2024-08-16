@@ -308,6 +308,7 @@ button{
 .boca-acabamento{
   display: flex;
   justify-content: space-between;
+  flex-wrap:wrap;
 }
 
 .boca{
@@ -387,13 +388,18 @@ button{
   width: 250px;
 }
 
+
+
 @media(max-width:765px){
  
-  .desainer-rotas , .container-imgs, .container-niina{
+   #produtos-container, .desainer-rotas , .container-imgs, .container-niina{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    padding: 10px;
   }
+
+ 
   .cards-container{
     display: flex;
     flex-wrap: wrap;
@@ -485,6 +491,7 @@ button{
     width: 510px;
   }
   
+  
 }
 
 
@@ -540,6 +547,21 @@ button{
 @media(max-width: 580px){
   .search-input-container{
       display: none;
+  }
+ 
+}
+
+@media(max-width:432px){
+  #produtos-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .produto{
+    width: 150px;
+  }
+  button{
+    font-size: 16px;
   }
 }
 
