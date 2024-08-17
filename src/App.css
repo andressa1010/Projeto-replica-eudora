@@ -622,6 +622,7 @@ button{
     justify-content: space-around;
     flex-wrap: wrap;
   }
+
   
 
   button{
@@ -629,6 +630,9 @@ button{
   }
   .logo-masculino{
     width: 400px;
+  }
+  .logo-base{
+    width: 300px;
   }
 }
 
@@ -643,5 +647,6 @@ button{
   .logo-masculino{
     width: 400px;
   }
+  
 }
 
